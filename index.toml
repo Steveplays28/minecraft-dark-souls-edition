@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/tasks.json"
+hash = "e742f8b4d1b7c85e032574570a49185679def6f81a37bf5d7a7e521ef918e7e7"
+
+[[files]]
 file = "config/AdvancedCompass/mobs/mobs.json"
 hash = "780ab8455480a6f3f8f51dae172054de020e35ba749a15089a74630a6545dce8"
 
@@ -87,14 +91,6 @@ hash = "64ea24fdafe384529416a8163988d0f3e0a238cfc29b59573001e5bb430c2b57"
 [[files]]
 file = "config/editsign.json"
 hash = "bca5695dc10317c6ddb1064b4d80ae53e402721f565efee193ea7d8d5cef0eb6"
-
-[[files]]
-file = "config/emi.css"
-hash = "19b66432362c5b27f10a57c85ab5534ca4c02c5d4d415f5b07e5dadd35b85c15"
-
-[[files]]
-file = "config/emitrades.toml"
-hash = "bcccf999e46e09321c9d7a2b0e783b8278a33e6cc8e90332108a67733d971e30"
 
 [[files]]
 file = "config/emotecraft.json"
@@ -841,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/telepistons.pw.toml"
 hash = "82e6ed342c5c447fb8960a21dce44e18aea453d287e2b32e2951efed31cf4ba4"
+metafile = true
+
+[[files]]
+file = "mods/terra.pw.toml"
+hash = "bc3625cb724e67fd15dc82c027e7096bf9125c2ee5afa48d959035d5a96f355d"
 metafile = true
 
 [[files]]
