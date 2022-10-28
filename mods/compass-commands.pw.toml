@@ -1,0 +1,13 @@
+name = "Compass Commands"
+filename = "compass_commands-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tRhiIm2k/versions/1.1.0/compass_commands-1.1.0.jar"
+hash-format = "sha1"
+hash = "734e67b1c069e3ec3debcba486e6b3959ad68a32"
+
+[update]
+[update.modrinth]
+mod-id = "tRhiIm2k"
+version = "qobWvxTt"

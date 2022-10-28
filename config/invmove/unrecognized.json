@@ -1,0 +1,33 @@
+{
+  "allowMovement": {
+    "journeymap.client.ui.fullscreen.Fullscreen": true,
+    "journeymap.client.ui.component.ScrollPaneScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FullScreenListImpl": true,
+    "net.minecraft.class_433": true,
+    "journeymap.client.ui.dialog.OptionsManager": true,
+    "journeymap.client.ui.dialog.MultiplayerOptionsManager": true,
+    "journeymap.client.ui.dialog.ServerOptionsManager": true,
+    "dev.emi.emi.screen.ConfigScreen": true,
+    "dev.emi.emi.screen.BoMScreen": true,
+    "org.anti_ad.mc.ipnext.gui.ConfigScreen": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "dlovin.advancedcompass.gui.config.AdvCompassConfigScreen": true,
+    "dlovin.advancedcompass.gui.config.WaypointListGui": true,
+    "xaero.map.gui.GuiMap": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "xaero.common.gui.GuiWaypointsOptions": true,
+    "dlovin.advancedcompass.gui.config.WaypointEditGui": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "xaero.common.gui.GuiEntityRadarSettings": true,
+    "dev.emi.emi.screen.RecipeScreen": true
+  },
+  "hideBackground": {
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true
+  }
+}

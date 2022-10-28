@@ -1,0 +1,18 @@
+{
+	"main_menu": {
+		"top_left": [],
+		"top_right": [],
+		"bottom_left": [[{ "text": "Steve SMP S5 Reloaded" }]],
+		"bottom_right": [
+			[{ "text": "Made by Steveplays, ImmortalWolf, and Creeperplays" }]
+		],
+		"mod_blacklist": []
+	},
+	"pause_menu": {
+		"top_left": [],
+		"top_right": [],
+		"bottom_left": [],
+		"bottom_right": [],
+		"mod_blacklist": []
+	}
+}

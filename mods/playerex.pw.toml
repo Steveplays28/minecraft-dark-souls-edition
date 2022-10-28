@@ -1,0 +1,13 @@
+name = "PlayerEx"
+filename = "playerex-3.3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o5GUN4b1/versions/iv7dDXiw/playerex-3.3.7.jar"
+hash-format = "sha1"
+hash = "adcb7bd64bb57a1396338743c50b04299850b44d"
+
+[update]
+[update.modrinth]
+mod-id = "o5GUN4b1"
+version = "iv7dDXiw"

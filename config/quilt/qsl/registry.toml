@@ -1,0 +1,9 @@
+
+[registry_sync]
+	# Message displayed for players joining with incompatible clients. Support strings and Minecraft's JSON text format.
+	# default: Unsupported (vanilla?) client!
+	#This server requires a modded client to join!
+	missing_registry_sync_message = "Unsupported (vanilla?) client!\nThis server requires the Steve SMP S5 Reloaded modpack to join!\n\nYou can download the modpack here: https://github.com/Steveplays28/steve-smp-s5-reloaded"
+	# Allows players with Fabric API to connect, as long as they have all required mods.
+	# default: true
+	support_fabric_api_protocol = true

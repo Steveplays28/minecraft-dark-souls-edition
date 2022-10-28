@@ -1,0 +1,16 @@
+name = "Steve SMP S5 Reloaded"
+author = "Steveplays28"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5d8ea20ccd34f8418eb8f2999b7659e110c92ff10f535d224bfd1c96cc1f11b9"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.4"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

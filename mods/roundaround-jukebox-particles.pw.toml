@@ -1,0 +1,13 @@
+name = "Jukebox Particles"
+filename = "jukeboxparticles-1.0.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZwfpGV4V/versions/1.0.0/jukeboxparticles-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "a4bb9114aeb3cf590810cefca7f7f5f2a19584cd"
+
+[update]
+[update.modrinth]
+mod-id = "ZwfpGV4V"
+version = "Lvake87u"

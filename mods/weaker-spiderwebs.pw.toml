@@ -1,0 +1,13 @@
+name = "Weaker Spiderwebs"
+filename = "weakerspiderwebs-fabric_1.19.2-2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7L1HalIW/versions/2fQE3F09/weakerspiderwebs-fabric_1.19.2-2.8.jar"
+hash-format = "sha1"
+hash = "da6357fbc1b24d0ea703c80962cc5dc6a5490a29"
+
+[update]
+[update.modrinth]
+mod-id = "7L1HalIW"
+version = "2fQE3F09"
