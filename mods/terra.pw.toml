@@ -1,0 +1,13 @@
+name = "Terra"
+filename = "Terra-quilt-6.2.0-BETA+7d056bd88.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FIlZB9L0/versions/6.2.0-BETA-quilt/Terra-quilt-6.2.0-BETA%2B7d056bd88.jar"
+hash-format = "sha1"
+hash = "110d3eb4ac9b0b3dce4d1a738b02a722ac13487c"
+
+[update]
+[update.modrinth]
+mod-id = "FIlZB9L0"
+version = "5IA99vok"
