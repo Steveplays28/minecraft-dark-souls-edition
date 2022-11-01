@@ -1,0 +1,26 @@
+{
+    "ModSettings": {
+        "highlight_foused_items": false,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_inventory_editor_button": false
+    },
+    "Hotkeys": {
+        "open_config_menu": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "reload_custom_configs": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "open_gui_editor": {
+            "main": {
+                "keys": ""
+            }
+        }
+    }
+}

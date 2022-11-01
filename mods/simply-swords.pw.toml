@@ -1,0 +1,13 @@
+name = "Simply Swords"
+filename = "simplyswords-fabric-1.33-1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/kBPw7G3T/simplyswords-fabric-1.33-1.19.x.jar"
+hash-format = "sha1"
+hash = "e6d5291d87822cdc235c62cf41d95752a473f392"
+
+[update]
+[update.modrinth]
+mod-id = "bK3Ubu9p"
+version = "kBPw7G3T"

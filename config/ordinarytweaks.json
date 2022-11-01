@@ -7,7 +7,7 @@
 	"hideAdvancementToasts": false,
 	"hideRecipeUnlockToasts": true,
 	"deathCordsClipBoardButton": false,
-	"sendDeathCords": false,
+	"sendDeathCords": true,
 	"disablePortalGUIClosing": true,
 	"doNotPlantEdiblesIfHungry": false,
 	"noDoubleSlabPlacement": false,
