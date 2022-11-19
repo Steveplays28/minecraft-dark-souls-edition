@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/tasks.json"
-hash = "e742f8b4d1b7c85e032574570a49185679def6f81a37bf5d7a7e521ef918e7e7"
-
-[[files]]
-file = "README.md"
-hash = "b64be479a15787b6f19206e3dbd1f247dfb9205a5cf228c982cd9362536c5b1d"
-
-[[files]]
 file = "config/AdvancedCompass/mobs/mobs.json"
 hash = "780ab8455480a6f3f8f51dae172054de020e35ba749a15089a74630a6545dce8"
 
@@ -219,6 +211,30 @@ hash = "17dea6077e7f6740b4c3053d66399a2022523435db96c54dc64ba2d208e6be2b"
 [[files]]
 file = "config/patchouli.json5"
 hash = "15494ba94f607d4fb945152c61c1339b13809c029a8736ef1eae24828445c1c8"
+
+[[files]]
+file = "config/physicsmod/physics_animations_client_config.json"
+hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
+
+[[files]]
+file = "config/physicsmod/physics_blocks_client_config.json"
+hash = "b67466eb45093fb1981807e2c4531c72aca1752b6cdd5bcdbb53aac835483c10"
+
+[[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "e7496a59eb68399122abaeba1aab0c9920bd3f49ae52981c6080403177c8fe4c"
+
+[[files]]
+file = "config/physicsmod/physics_mobs_client_config.json"
+hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+
+[[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "1afde48eff108eb21adb246de5d44ef6ced16862cca62cf0123c059a9934c7cc"
+
+[[files]]
+file = "config/physicsmod/physics_vines_client_config.json"
+hash = "c3bcae0480e8a565e51b788c8b2328cda7b99ed350b4b17db58452b520595228"
 
 [[files]]
 file = "config/pickupnotifications.toml"

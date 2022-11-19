@@ -46,6 +46,10 @@
 <https://modrinth.com/mod/untill>
 <https://modrinth.com/mod/interdimensional-map-markers>
 <https://modrinth.com/mod/slot-cycler>
+<https://modrinth.com/mod/plenty-of-armors>
+<https://modrinth.com/mod/illagers-love-armor>
+<https://modrinth.com/mod/armortweaks>
+<https://modrinth.com/mod/oops-all-armor>
 
 ## Mods I'm testing
 
