@@ -111,6 +111,7 @@
 - <https://modrinth.com/mod/endium>
 - <https://modrinth.com/mod/gildedarmor>
 - <https://modrinth.com/mod/immersive-paintings>
+- <https://modrinth.com/mod/yigd>
 
 Music
 
