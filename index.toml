@@ -1422,11 +1422,6 @@ hash = "87891a2b0dd74c052b5c4256a14499b93fb9dca89ec8abaa085a1cb772033bf8"
 metafile = true
 
 [[files]]
-file = "mods/sprintometer.pw.toml"
-hash = "54b96ed6bf7109c6de0e5722ddf7fc1ecc706a77cfdeb1d1afb548d54f99a921"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
