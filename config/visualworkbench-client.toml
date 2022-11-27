@@ -2,3 +2,4 @@
 flat_rendering = true
 #Render the result of the crafting operation in addition to crafting table contents.
 render_result = true
+

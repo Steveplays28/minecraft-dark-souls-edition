@@ -1,0 +1,13 @@
+name = "Sprint O' Meter"
+filename = "sprintometer-2.0a-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/exveatcq/versions/2.0ea/sprintometer-2.0a-1.19.2.jar"
+hash-format = "sha1"
+hash = "4ffb98b085ad4a4e67d0de47518d17cdb514b51b"
+
+[update]
+[update.modrinth]
+mod-id = "exveatcq"
+version = "wE2WpTjS"

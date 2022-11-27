@@ -7,3 +7,4 @@
 	# Allows players with Fabric API to connect, as long as they have all required mods.
 	# default: true
 	support_fabric_api_protocol = true
+

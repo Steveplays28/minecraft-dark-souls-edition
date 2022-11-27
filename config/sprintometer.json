@@ -1,0 +1,21 @@
+{
+  "enableSprintOMeter": true,
+  "enableJumpDebuff": true,
+  "enableSaturationDependency": false,
+  "saturationDependencyModifier": 15,
+  "enableLowStaminaWarn": true,
+  "maximumStamina": 100,
+  "sprintDeductionAmount": 1,
+  "jumpDeductionAmount": 1,
+  "staminaRestorationAmount": 1,
+  "staminaDeductionDelay": 3,
+  "staminaRestorationDelay": 0,
+  "coolDownDelay": 25,
+  "enablePotions": true,
+  "staminaGainPotionDuration": 600,
+  "staminaGainBaseAmplifier": 2,
+  "staminaGainInstantBaseAmplifier": 10,
+  "staminaGainEffectDelay": 10,
+  "enableVerticalSwimDeduct": false,
+  "deductWithPotionEffect": true
+}

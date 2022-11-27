@@ -23,11 +23,41 @@
     "xaero.map.gui.GuiWorldMapSettings": true,
     "xaero.common.gui.GuiMinimapMain": true,
     "xaero.common.gui.GuiEntityRadarSettings": true,
-    "dev.emi.emi.screen.RecipeScreen": true
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.github.clevernucleus.playerex.client.gui.ExScreen": true,
+    "sh.talonfox.enhancedweather.client.screens.RadarScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookWriter": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "earth.terrarium.ad_astra.client.screens.LargeVehicleScreen": true,
+    "earth.terrarium.ad_astra.client.screens.VehicleScreen": true,
+    "earth.terrarium.ad_astra.client.screens.LanderScreen": true,
+    "earth.terrarium.ad_astra.client.screens.OxygenDistributorScreen": true,
+    "net.minecraft.class_4895": true,
+    "earth.terrarium.ad_astra.client.screens.NasaWorkbenchScreen": true,
+    "com.simibubi.create.content.logistics.trains.management.edgePoint.station.StationScreen": true,
+    "com.simibubi.create.content.logistics.trains.management.edgePoint.station.AssemblyScreen": true,
+    "earth.terrarium.ad_astra.client.screens.SolarPanelScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
     "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
-    "dev.emi.emi.screen.RecipeScreen": true
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.github.clevernucleus.playerex.client.gui.ExScreen": true,
+    "sh.talonfox.enhancedweather.client.screens.RadarScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "vazkii.patchouli.client.book.gui.GuiBookHistory": true,
+    "vazkii.patchouli.client.book.gui.GuiBookWriter": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "earth.terrarium.ad_astra.client.screens.LargeVehicleScreen": true,
+    "earth.terrarium.ad_astra.client.screens.VehicleScreen": true,
+    "earth.terrarium.ad_astra.client.screens.LanderScreen": true,
+    "earth.terrarium.ad_astra.client.screens.OxygenDistributorScreen": true,
+    "net.minecraft.class_4895": true,
+    "earth.terrarium.ad_astra.client.screens.NasaWorkbenchScreen": true,
+    "com.simibubi.create.content.logistics.trains.management.edgePoint.station.StationScreen": true,
+    "com.simibubi.create.content.logistics.trains.management.edgePoint.station.AssemblyScreen": true,
+    "earth.terrarium.ad_astra.client.screens.SolarPanelScreen": true
   }
 }
