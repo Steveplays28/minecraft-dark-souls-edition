@@ -28,6 +28,7 @@ mode = "fancy"
 				allay = true
 				skeleton = true
 				bat = true
+				frog = true
 				rabbit = true
 				armor_stand = true
 				drowned = true
@@ -37,8 +38,10 @@ mode = "fancy"
 				stray = true
 				turtle = true
 				salmon = true
+				goat = true
 				horse = true
 				phantom = true
+				minecart = true
 				glow_squid = true
 				glow_item_frame = false
 				squid = true
@@ -47,6 +50,7 @@ mode = "fancy"
 				lightning_bolt = true
 				enderman = true
 				chicken = true
+				ravager = true
 				donkey = true
 				chest_minecart = true
 				fox = true
@@ -59,7 +63,9 @@ mode = "fancy"
 				cat = true
 				zombie = true
 				sheep = true
+				fireball = true
 				player = true
+				pufferfish = true
 				villager = true
 				wolf = true
 				skeleton_horse = true
@@ -70,4 +76,24 @@ mode = "fancy"
 				witch = true
 				cod = true
 				spider = true
+
+			[light_sources.settings.entities.blasttravel]
+				cannon = true
+
+			[light_sources.settings.entities.create]
+				carriage_contraption = true
+				super_glue = true
+
+			[light_sources.settings.entities.whipdashing]
+				hook_entity = true
+
+			[light_sources.settings.entities.ad_astra]
+				ice_spit = true
+				martian_raptor = true
+				corrupted_lunarian = true
+				lunarian = true
+				tier_1_rover = true
+				tier_4_rocket = true
+				star_crawler = true
+				lander = true
 

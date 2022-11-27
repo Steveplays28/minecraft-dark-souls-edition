@@ -33,3 +33,4 @@ configVersion = 1
 		#Note this value only has any effect if anyShape is true.
 		#Server-side & single player only.
 		enforceMinimum = false
+

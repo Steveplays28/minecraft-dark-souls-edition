@@ -1,0 +1,14 @@
+{
+  "globalDirectory": {
+    "root": "C:\\Misc\\minecraft_global_config"
+  },
+  "enabled": {
+    "shared-resources:shaderpacks": true,
+    "shared-resources:options": true,
+    "shared-resources:servers": false,
+    "shared-resources:saves": false,
+    "shared-resources:resourcepacks": false,
+    "shared-resources:config": false,
+    "shared-resources:screenshots": true
+  }
+}

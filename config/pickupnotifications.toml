@@ -31,3 +31,4 @@ configVersion = 2
 	backgroundOpacity = 0.5
 	# Whether to render text shadow in notifications.
 	renderShadow = true
+

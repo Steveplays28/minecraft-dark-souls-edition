@@ -1,0 +1,11 @@
+{
+	"minecraft:dirt_path": 1.35,
+	"#minecraft:stone_bricks": 1.15,
+	"ad_astra:moon_sand": 0.25,
+	"ad_astra:mars_sand": 0.65,
+	"minecraft:snow_block": 0.5,
+	"minecraft:mud": 0.65,
+	"minecraft:gravel": 1.3,
+	"#minecraft:leaves": 0.65,
+	"minecraft:hay_block": 0.5
+}
