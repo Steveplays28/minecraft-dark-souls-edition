@@ -266,7 +266,6 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - MidnightLib
 - MinimalMenu
 - Mod Menu
-- MoreChatHistory
 - Nbt Crafting
 - NoRecipeBook (Fabric)
 - NoRefreshScroll

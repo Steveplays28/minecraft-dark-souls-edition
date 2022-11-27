@@ -1022,11 +1022,6 @@ hash = "59c6d5913981335b2a8870c74497807e575ee5d2843391ef708527bdbb1adbc8"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "bf466c25f51d243f814c775ea0b24bc98846b2f8de550c6c45c9ad421562e313"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -1059,11 +1054,6 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "1b3706e9e9c79ad136499976a2fd48a60a33f9820ccabdf9aeac76475255b259"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-weather.pw.toml"
-hash = "fde32863cef2ab272aed2c36938b42ec51ecafcde4fd4a2d59a9ef476bc19a5b"
 metafile = true
 
 [[files]]
@@ -1134,6 +1124,11 @@ metafile = true
 [[files]]
 file = "mods/invmove.pw.toml"
 hash = "2f028c67b37fc7c906bcd8983e775c588b49d03a05953acc9a38e37cb275ea96"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
 metafile = true
 
 [[files]]
@@ -1224,11 +1219,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
-metafile = true
-
-[[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
