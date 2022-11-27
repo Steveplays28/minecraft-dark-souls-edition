@@ -1367,11 +1367,6 @@ hash = "745bcf04113be2b75d14cf283b7c232c0b5016dea1fcdfe80f829aa9ddb3198c"
 metafile = true
 
 [[files]]
-file = "mods/server-chat-history.pw.toml"
-hash = "960f766a4e7f035cd03dd012ab5555a66eae18f477c66240f2ece0c6d8c4538e"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2d7024f15576d5e4f0b4ad573c5da9ef4cb33d8898886a899a33418e1e2f97d9"
 metafile = true
