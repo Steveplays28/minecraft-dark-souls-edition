@@ -109,6 +109,8 @@
 - <https://modrinth.com/mod/harvest-scythes>
 - <https://modrinth.com/mod/banilla-claws>
 - <https://modrinth.com/mod/endium>
+- <https://modrinth.com/mod/gildedarmor>
+- <https://modrinth.com/mod/immersive-paintings>
 
 Music
 
@@ -215,6 +217,7 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - Compass Commands
 - Connectible Chains [Fabric]
 - Continuity
+- Cosmetic Armor
 - Create Fabric
 - Creeper AI Updated
 - Custom LAN
