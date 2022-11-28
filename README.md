@@ -170,12 +170,8 @@ Server
 
 ### Testing
 
-- <https://modrinth.com/mod/luckperms>
-- <https://modrinth.com/mod/styled-chat>
-- <https://modrinth.com/mod/styledplayerlist>
 - <https://modrinth.com/mod/holograms>
-
-- <https://modrinth.com/mod/no-chat-reports>
+- <https://modrinth.com/mod/vanish>
 
 ### Rejected
 

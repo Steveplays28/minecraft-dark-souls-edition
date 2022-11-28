@@ -12,14 +12,14 @@
     "require_for_formatting": false
   },
   "auto_completion": {
-    "tags": false,
-    "tag_aliases": false,
-    "emoticons": false
+    "tags": true,
+    "tag_aliases": true,
+    "emoticons": true
   },
   "default": {
-		"displayName": "%luckperms:prefix%${default}",
+		"display_name": "%luckperms:prefix%${default}%luckperms:suffix%",
 		"message_formats": {
-			"chat": "<${player}> ${message}",
+			"chat": "${player}: ${message}",
 			"joined_the_game": "<yellow><lang:multiplayer.player.joined:'${player}'></yellow>",
 			"joined_after_name_change": "<yellow><lang:multiplayer.player.joined.renamed:'${player}':'${old_name}'></yellow>",
 			"joined_for_first_time": "<yellow><lang:multiplayer.player.joined:'${player}'></yellow>",

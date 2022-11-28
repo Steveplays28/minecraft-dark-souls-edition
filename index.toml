@@ -493,6 +493,10 @@ file = "config/loadingscreentips.json"
 hash = "e9148a96f3fc698a86a5e436c927c3f2c581d1f9d1690e285234d70784984150"
 
 [[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "f773515b31735bac518c8bdfbe24bad6944aa19275d38246096ed21773d4f337"
+
+[[files]]
 file = "config/merequester.json"
 hash = "badd9bf46e2aa26dbe294d6d77b97aba659ea08fe7bfdb907b1327fa8e24b06e"
 
@@ -698,7 +702,7 @@ hash = "90d686731fa5c3bdeaf2f2901b5f1b2bc94aa3c648af64069e931f3e21180b70"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "0015805f5eaf74d2c2e79c64f93caf50c6f0641bafd15ef4717571a0f9431cbd"
+hash = "d52faa7ff1854070a7430e23e8ca139d3edf39a1080cff4cc435aa9dbef61237"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
@@ -1115,6 +1119,11 @@ hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
+file = "mods/holograms.pw.toml"
+hash = "4e481612b735669542f7946101183962951c61350f856529d13d571feada0ae5"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -1487,6 +1496,11 @@ metafile = true
 [[files]]
 file = "mods/unofficial-sodium-biome-blending-fix.pw.toml"
 hash = "372a411132154ed7b76bf177d42722fcb4cb526b49aed29ddf762818b9425e37"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "ff4c69f691d9e8ec2aef08d4503619c18782380af9548bedc28952c37c49c9fe"
 metafile = true
 
 [[files]]
