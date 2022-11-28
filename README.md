@@ -138,6 +138,7 @@ Tech
 - <https://modrinth.com/mod/advanced-reborn>
 - <https://modrinth.com/mod/disenchanter>
 - <https://modrinth.com/mod/fwaystones>
+- <https://modrinth.com/mod/furc>
 
 Blocks/decorations
 
@@ -153,12 +154,27 @@ UI
 - <https://modrinth.com/mod/why-am-i-on-fire>
 - <https://modrinth.com/mod/timetolive>
 
-### Testing
+Optimisation
 
 - <https://modrinth.com/mod/bedrodium>
 - <https://modrinth.com/mod/lmd>
 - <https://modrinth.com/mod/noxesium>
 - <https://modrinth.com/mod/moreculling>
+
+Server
+
+- <https://modrinth.com/mod/status-changer>
+- <https://modrinth.com/mod/server-side-replay-recorder>
+- <https://modrinth.com/mod/invview>
+
+### Testing
+
+- <https://modrinth.com/mod/luckperms>
+- <https://modrinth.com/mod/styled-nicknames>
+- <https://modrinth.com/mod/styledplayerlist>
+- <https://modrinth.com/mod/holograms>
+
+- <https://modrinth.com/mod/no-chat-reports>
 
 ### Rejected
 

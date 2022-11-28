@@ -366,11 +366,7 @@ hash = "1b1d64bc4adbffa787f59ac349c3c7eb3669d7872b5afe270b2332f093d6b4c1"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "f5dbce29882a4dd98626986a6bdf3d81b29695bf79e06dec73b18031503f31ac"
-
-[[files]]
-file = "config/enhancedweather.json5"
-hash = "6feeb02891a6a57bec1cd20b3047cc46d348ebd76693883a2e66e6aa392e84f5"
+hash = "d5e19fc2937a31e6fdecea4b955e1ccda6c1e5c9e3921e57dc29f0297d8f1484"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -602,11 +598,11 @@ hash = "acf0e75b264d3ade29862d5abf3c3f2df6c6aaf47979362cb02161b7765063a0"
 
 [[files]]
 file = "config/quilt-loader.txt"
-hash = "57ccc5dfff77b99d0b5cacee480758b1c0164d59ba4e62e7e01b2ad8f421b697"
+hash = "246ba5c4e1b62f7c7e6d18b7e85b047d9f9aec6058eca68bf227f2baf3059a74"
 
 [[files]]
 file = "config/quilt-loading-screen.json"
-hash = "f9e2b643d5dc4c6538972342d4b841ba0aa817485dbd9eb720acba5beb6a66ff"
+hash = "c0a604412e333d77bd4a877089ef610b2e339558815417fd5b05e123e034cf0a"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
@@ -701,8 +697,20 @@ file = "config/spidersproducewebs-fabric.json5"
 hash = "90d686731fa5c3bdeaf2f2901b5f1b2bc94aa3c648af64069e931f3e21180b70"
 
 [[files]]
-file = "config/sprintometer.json"
-hash = "34f878f26928a5d147c2ab48a9e29163076f49b92bbf1204283b67d90b7ef2bf"
+file = "config/styled-nicknames.json"
+hash = "ccac4cdb26ba9a301854715d5b6236eaa4cf0e678fe8061ea940cceae198c748"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "da41be05810c1bbcdc4c9a9b272a2c274dafc0802655edfcbe5f576ee397d7a2"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "eb4f4c35594dfccaf388b31b31a08f3219ade3653c547fefa6849d2d3595a4ff"
+
+[[files]]
+file = "config/styledplayerlist/styles/smp.json"
+hash = "22750c669eee6f30e17918e5f6789103a8294b606d19cc2f7ddd2701985eb8a7"
 
 [[files]]
 file = "config/timestamp_chat.toml"
@@ -733,16 +741,12 @@ file = "config/visualworkbench-client.toml"
 hash = "b09ab131a24d844351edac7d3cd8f4f0ecc36929b5b7e434a634f62aefb85822"
 
 [[files]]
-file = "config/voicechat/username-cache.json"
-hash = "f810377262a2bd3b70ee26d5ce165077a929a9e234049ed15c6dc8aba9a8fa76"
-
-[[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "0f206d4dda3412d37610a86a81b53c358d3c2a4505e6e52ab298c5829be58406"
+hash = "a61bebc23e202bd63492bd0172147b9a4674f4c865fe6ba7953475863f9f1a33"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "4101bab7b6678abe3d37469cad6f7d6791bcf45b41515e69cc91c8a494b02c21"
+hash = "36d03142879497af619cd8698b744349cba232b5afa54ec3b727861061192d06"
 
 [[files]]
 file = "config/waila/blacklist.json"
@@ -1187,6 +1191,11 @@ hash = "b30a38a6591c439204305a83bb2c42ae5206fc1bd550d9b0a1c871ab6f1c437c"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0cccc3f572cda0003a3fdcd1e69caff25dca302db09653ce5c3ca2f7e44be4f2"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
@@ -1224,6 +1233,11 @@ metafile = true
 [[files]]
 file = "mods/nbt-crafting.pw.toml"
 hash = "2f14b34b78569e3cdf0ed293855d869ef455c73055cfec9566f1d3efd06edc06"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
@@ -1424,6 +1438,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "d2accfdeb772987301d7517f93e081a276e5ae7610caf1f213a2012204699358"
 metafile = true
 
 [[files]]

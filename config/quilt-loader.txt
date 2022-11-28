@@ -2,4 +2,4 @@
 #Thu Nov 24 21:22:13 CET 2022
 restrict_game_versions=true
 always_show_mod_state_window=false
-load_sub_folders=true
+load_sub_folders=false
