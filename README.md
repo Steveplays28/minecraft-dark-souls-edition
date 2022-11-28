@@ -166,11 +166,12 @@ Server
 - <https://modrinth.com/mod/status-changer>
 - <https://modrinth.com/mod/server-side-replay-recorder>
 - <https://modrinth.com/mod/invview>
+- <https://docs.papermc.io/velocity>
 
 ### Testing
 
 - <https://modrinth.com/mod/luckperms>
-- <https://modrinth.com/mod/styled-nicknames>
+- <https://modrinth.com/mod/styled-chat>
 - <https://modrinth.com/mod/styledplayerlist>
 - <https://modrinth.com/mod/holograms>
 
@@ -224,7 +225,6 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - Break Free
 - Concurrent Chunk Management Engine (Fabric)
 - Chat Heads
-- Chat Signing Hider
 - Chime
 - Chunky
 - Clean Logs
@@ -242,7 +242,6 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - Data Attributes
 - Debugify
 - Detail Armor Bar
-- Distant Horizons
 - Dynamic FPS
 - Eating Animation [Fabric]
 - Enhanced Block Entities
@@ -250,7 +249,6 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - Effective 💦
 - EMI
 - Emotecraft
-- Enhanced Weather
 - Entity Collision FPS Fix
 - EntityCulling
 - ExtraSounds
@@ -265,6 +263,7 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - Indium
 - Inventory Profiles Next
 - InvMove
+- Iris Shaders
 - JourneyMap Integration
 - JourneyMap
 - Krypton
@@ -276,6 +275,7 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - LazyDFU
 - Lithium
 - Loading Screen Tips
+- LuckPerms
 - Main Menu Credits
 - Memory Leak Fix
 - ME Requester
@@ -284,6 +284,7 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - MinimalMenu
 - Mod Menu
 - Nbt Crafting
+- No Chat Reports
 - NoRecipeBook (Fabric)
 - NoRefreshScroll
 - Not Enough Animations
@@ -312,7 +313,6 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - Satin API
 - Scout
 - Secret Rooms
-- Server Chat History
 - Simple Voice Chat
 - Simply Swords
 - Skip Transitions
@@ -324,8 +324,9 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - Sodium
 - Sound Physics Remastered
 - Spiders Produce Webs
-- Sprint O' Meter
 - Starlight (Fabric)
+- Styled Chat
+- Styled Player List
 - Suggestion Provider Fix [Fabric]
 - Telepistons
 - Terra
@@ -341,3 +342,9 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - WTHIT
 - YetAnotherConfigLib
 - Zoomify
+
+## Notes
+
+Specific and hard to find documentation that helped me make this modpack.
+
+- <https://gist.github.com/arnokeesman/84411929a02f00b847d1b2cca30ebe18>

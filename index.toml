@@ -366,7 +366,7 @@ hash = "1b1d64bc4adbffa787f59ac349c3c7eb3669d7872b5afe270b2332f093d6b4c1"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "d5e19fc2937a31e6fdecea4b955e1ccda6c1e5c9e3921e57dc29f0297d8f1484"
+hash = "952c99545f3b2265ec11a4c2bb2927cc70400d86f36ed8c56dfe5638ad11f855"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -602,7 +602,7 @@ hash = "246ba5c4e1b62f7c7e6d18b7e85b047d9f9aec6058eca68bf227f2baf3059a74"
 
 [[files]]
 file = "config/quilt-loading-screen.json"
-hash = "c0a604412e333d77bd4a877089ef610b2e339558815417fd5b05e123e034cf0a"
+hash = "f3afc08bd20c4d996ec0a31a8360f4dce4adf7c912377dfb2382123f2b59eb4a"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
@@ -697,16 +697,16 @@ file = "config/spidersproducewebs-fabric.json5"
 hash = "90d686731fa5c3bdeaf2f2901b5f1b2bc94aa3c648af64069e931f3e21180b70"
 
 [[files]]
-file = "config/styled-nicknames.json"
-hash = "ccac4cdb26ba9a301854715d5b6236eaa4cf0e678fe8061ea940cceae198c748"
+file = "config/styled-chat.json"
+hash = "0015805f5eaf74d2c2e79c64f93caf50c6f0641bafd15ef4717571a0f9431cbd"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
-hash = "da41be05810c1bbcdc4c9a9b272a2c274dafc0802655edfcbe5f576ee397d7a2"
+hash = "228515f08ebcd08a669c0d1419b0fb81d7b16641ed63995f79c42ab920b58b3f"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "eb4f4c35594dfccaf388b31b31a08f3219ade3653c547fefa6849d2d3595a4ff"
+hash = "2fa4fb507d37af16859426d7fcf499c1e1aa5045b48d1a5bdb15b9697f57bab8"
 
 [[files]]
 file = "config/styledplayerlist/styles/smp.json"
@@ -742,7 +742,7 @@ hash = "b09ab131a24d844351edac7d3cd8f4f0ecc36929b5b7e434a634f62aefb85822"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "a61bebc23e202bd63492bd0172147b9a4674f4c865fe6ba7953475863f9f1a33"
+hash = "fce79fc7f3f8c239417250827c807f74abccead2a0313d0e40e718ca1099aaa9"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -804,6 +804,10 @@ hash = "14c0c94bf0ccd94649de5cd5efe9af072849189fedb474121c79334eabc8feec"
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
+
+[[files]]
+file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
+hash = "87e49eea3a73f9eb779fae72d0e17d384d523c7a3a22d410727134ce3c916b59"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -933,11 +937,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8440097630bb5576edaf891db7490fe9e6a6c996670e6d25b6bd027712db6050"
-metafile = true
-
-[[files]]
-file = "mods/chat-signing-hider.pw.toml"
-hash = "d4c5bbe95534b3f52b186514550a38b196e94110b9ad3910a1c09b84b4393289"
 metafile = true
 
 [[files]]
@@ -1441,8 +1440,8 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
+file = "mods/styled-chat.pw.toml"
+hash = "b54a2d0cdb07a011d353462037ee68dfa2108767be8485c58f65fea4986cb934"
 metafile = true
 
 [[files]]
