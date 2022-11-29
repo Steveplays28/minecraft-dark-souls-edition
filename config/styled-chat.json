@@ -30,11 +30,11 @@
 			"advancement_goal": "<lang:chat.type.advancement.goal:'${player}':'${advancement}'>",
 			"sent_team_chat": "<lang:'chat.type.team.sent':'<hover\\:\\'<lang\\:chat.type.team.hover>\\'><suggest_command\\:\\'/teammsg \\'>${team}':'${displayName}':'${message}'>",
 			"received_team_chat": "<lang:'chat.type.team.text':'<hover\\:\\'<lang\\:chat.type.team.hover>\\'><suggest_command\\:\\'/teammsg \\'>${team}':'${displayName}':'${message}'>",
-			"sent_private_message": "<gray><italic><lang:commands.message.display.outgoing:'${receiver}':'${message}'>",
-			"received_private_message": "<gray><italic><lang:commands.message.display.incoming:'${sender}':'${message}'>",
-			"say_command": "[${player}] ${message}",
+			"sent_private_message": "<color:#FA672B>You --> ${receiver} [PM]: ${message}</color>",
+			"received_private_message": "<color:#F53636>${sender} --> You [PM]: ${message}</color>",
+			"say_command": "${player}: ${message}",
 			"me_command": "<lang:'chat.type.emote':'${player}':'${message}'>",
-			"pet_death": "${default_message}"
+			"pet_death": "${default_message} RIP."
 		},
 		"link_style": "<underline><c:#7878ff>${link}",
 		"spoiler_style": "<gray>${spoiler}",

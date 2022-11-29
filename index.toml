@@ -37,6 +37,22 @@ file = "config/DistantHorizons.toml"
 hash = "409057ec95217df473d4faf54e340f2e6d32d35439929eefa9fdc78ddf2d4047"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "7d72f0a6cd64d7860a4000a6b1cb3c8a9cf6fe8a9fd971a105bca8432b494a8e"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "df34a1ed7b309c08deaf42c906fa2ea6f29bb3bf8395ce26593fac4834938496"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerWhitelist.json"
+hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
+
+[[files]]
 file = "config/SkipTransitions.properties"
 hash = "65c60525a8520ef94fb060b187bc73dd57128c77d865d5e417538823eb97c679"
 
@@ -702,7 +718,7 @@ hash = "90d686731fa5c3bdeaf2f2901b5f1b2bc94aa3c648af64069e931f3e21180b70"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "af2abd9a08a0d323bd01992c2ef3c1305d06c3b500694c22e0832b64bc6b67fd"
+hash = "9aba6c32989e3079ebea0e5cc21b185129dc402402932c0cb3b8eca9451caa39"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
@@ -1196,6 +1212,11 @@ metafile = true
 [[files]]
 file = "mods/loading-screen-tips.pw.toml"
 hash = "b30a38a6591c439204305a83bb2c42ae5206fc1bd550d9b0a1c871ab6f1c437c"
+metafile = true
+
+[[files]]
+file = "mods/luckperms-command-permissions-extension.pw.toml"
+hash = "b44266ae868f33bcb45ddc0c0e6e6cc1b9d673867645ebea5ebb3d6554fd2726"
 metafile = true
 
 [[files]]

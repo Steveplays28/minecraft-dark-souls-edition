@@ -339,8 +339,10 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - YetAnotherConfigLib
 - Zoomify
 
-## Notes
+## Documentation
 
-Specific and hard to find documentation that helped me make this modpack.
+Documentation that aids in developing this modpack.
 
 - <https://gist.github.com/arnokeesman/84411929a02f00b847d1b2cca30ebe18>
+- <https://github.com/lucko/minecraft-command-permissions-fabric>
+- <https://placeholders.pb4.eu/user/text-format/>
