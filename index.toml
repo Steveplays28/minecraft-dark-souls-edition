@@ -702,7 +702,7 @@ hash = "90d686731fa5c3bdeaf2f2901b5f1b2bc94aa3c648af64069e931f3e21180b70"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "d52faa7ff1854070a7430e23e8ca139d3edf39a1080cff4cc435aa9dbef61237"
+hash = "af2abd9a08a0d323bd01992c2ef3c1305d06c3b500694c22e0832b64bc6b67fd"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
