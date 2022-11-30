@@ -270,7 +270,7 @@ hash = "4a3e5c2643b3e40f9a5edd3d540f788818dfdf382c19340393a47efefd52ecde"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "93fb929593ebc2acf18889aa7d003efc80ef4216717070e1b32a18199148a887"
+hash = "aca0181c47c4d9a78bb6ebf71ad2a6ac57c5787f0777069c328938d991681e41"
 
 [[files]]
 file = "config/cameraoverhaul.json"
