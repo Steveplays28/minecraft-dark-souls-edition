@@ -1050,6 +1050,11 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/dynamic_asset_generator.pw.toml"
+hash = "a5556be936ce9a6ca6d36f63cbe3e5e4dae20e222517016de83ed3de2a9fd890"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
 metafile = true
@@ -1087,6 +1092,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/excavated_variants.pw.toml"
+hash = "c00fde57f8d17d69aa20f0185775373dd02f9cc036cac4f84755f7fea946edb1"
 metafile = true
 
 [[files]]
@@ -1135,6 +1145,11 @@ hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "01229cc90ed07c223690033b98bd1cd3d04929c8e059a194cc50ebca8c3ca3f4"
+metafile = true
+
+[[files]]
 file = "mods/holograms.pw.toml"
 hash = "4e481612b735669542f7946101183962951c61350f856529d13d571feada0ae5"
 metafile = true
@@ -1152,6 +1167,11 @@ metafile = true
 [[files]]
 file = "mods/invmove.pw.toml"
 hash = "2f028c67b37fc7c906bcd8983e775c588b49d03a05953acc9a38e37cb275ea96"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "7cfacba402f52a71096bda72ede806b9b6964c2c807019da76f4e27fa839c8a5"
 metafile = true
 
 [[files]]
@@ -1177,11 +1197,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "17a0abaac2aab1c3700f894077875f153d999bee790edd6f84e6ea16a89195d1"
-metafile = true
-
-[[files]]
-file = "mods/lambdabettergrass.pw.toml"
-hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
 metafile = true
 
 [[files]]
@@ -1255,6 +1270,11 @@ hash = "75cbefdd9f19a1002c51190f033e464d9a3a96766bd243d3af1f1c7994555347"
 metafile = true
 
 [[files]]
+file = "mods/minimotd.pw.toml"
+hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
@@ -1287,6 +1307,11 @@ metafile = true
 [[files]]
 file = "mods/ordinarytweaks.pw.toml"
 hash = "e4eb1c8da3a55c0e69019c3bc77b222483d56f8b1adeb51699dd507dc399cc2c"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "2961f0039fb0529ef5e81212a386f53e414fde5bb192e659281c5936755745ad"
 metafile = true
 
 [[files]]

@@ -4,7 +4,7 @@
 
 - Java 17
 - Minecraft `1.19.2`
-- Quilt Loader `0.18.1-beta.18`
+- Quilt Loader `0.17.7-beta.1`
 - Quilted Fabric API `4.0.0-beta.21+0.67.0-1.19.2`
 
 ## Mods
@@ -12,8 +12,10 @@
 ### Require update/changes
 
 - <https://modrinth.com/mod/createplus>
-- <https://modrinth.com/mod/create-crystal-clear-fabric>
 - <https://modrinth.com/mod/cccbridge>
+- <https://modrinth.com/mod/decorative>
+- <https://www.curseforge.com/minecraft/mc-mods/reload-server-properties>
+- <https://modrinth.com/mod/fabricpvp>
 
 ### Untested
 
@@ -112,6 +114,7 @@
 - <https://modrinth.com/mod/gildedarmor>
 - <https://modrinth.com/mod/immersive-paintings>
 - <https://modrinth.com/mod/yigd>
+- <https://modrinth.com/mod/picturesign>
 
 Music
 
@@ -137,8 +140,8 @@ Tech
 - <https://modrinth.com/mod/enhancedquarries>
 - <https://modrinth.com/mod/advanced-reborn>
 - <https://modrinth.com/mod/disenchanter>
-- <https://modrinth.com/mod/fwaystones>
 - <https://modrinth.com/mod/furc>
+- <https://modrinth.com/mod/create-crystal-clear-fabric>
 
 Blocks/decorations
 
@@ -146,7 +149,12 @@ Blocks/decorations
 - <https://modrinth.com/mod/led>
 - <https://modrinth.com/mod/half-doors>
 - <https://modrinth.com/mod/tempered-glass>
-- <https://modrinth.com/mod/excavated_variants>
+- <https://modrinth.com/mod/puddles>
+- <https://modrinth.com/mod/particle-moths>
+- <https://modrinth.com/mod/particle-rain>
+- <https://modrinth.com/mod/sakura-blossoms>
+- <https://modrinth.com/mod/cullclouds>
+- <https://modrinth.com/mod/cave-dust>
 
 UI
 
@@ -160,18 +168,38 @@ Optimisation
 - <https://modrinth.com/mod/lmd>
 - <https://modrinth.com/mod/noxesium>
 - <https://modrinth.com/mod/moreculling>
+- <https://modrinth.com/mod/fabriccrossdimtpfix>
 
 Server
 
-- <https://modrinth.com/mod/status-changer>
 - <https://modrinth.com/mod/server-side-replay-recorder>
-- <https://modrinth.com/mod/invview>
 - <https://docs.papermc.io/velocity>
+- <https://www.curseforge.com/minecraft/mc-mods/kubejs-ui>
+- <https://modrinth.com/mod/servertick>
+- <https://modrinth.com/mod/essential-commands>
+- <https://modrinth.com/mod/compact-help-command>
+- <https://modrinth.com/mod/enchant-command-fix>
+- <https://modrinth.com/mod/compass-commands>
+- <https://modrinth.com/mod/slime>
+- <https://modrinth.com/mod/respawn-delay>
+- <https://modrinth.com/mod/player-tracking>
+- <https://modrinth.com/mod/blossomback>
+- <https://modrinth.com/mod/blossomexperiencebottling>
+- <https://modrinth.com/mod/bettertellraw>
+- <https://modrinth.com/mod/client-commands>
+- <https://modrinth.com/mod/kontrolo>
+- <https://modrinth.com/mod/just-player-heads>
+- <https://modrinth.com/mod/aliases>
+- <https://modrinth.com/mod/name-tag-tweaks>
 
 ### Testing
 
-- <https://modrinth.com/mod/holograms>
-- <https://modrinth.com/mod/vanish>
+- <https://modrinth.com/mod/invview>
+- <https://modrinth.com/mod/excavated_variants>
+- <https://modrinth.com/mod/fwaystones>
+- <https://modrinth.com/mod/owo-lib>
+- <https://modrinth.com/mod/dynamic_asset_generator>
+- <https://modrinth.com/mod/minimotd>
 
 ### Rejected
 
@@ -189,6 +217,12 @@ Server
 - <https://modrinth.com/mod/canimation> Crashes due to mixin inject failure
 - <https://modrinth.com/mod/whipdashing> Clunky to use, keybindings aren't all rebindable and conflict with PlayerEx
 - <https://modrinth.com/mod/factions> Crashes due to mixin inject failure
+- <https://modrinth.com/mod/status-changer> Superseded by MiniMOTD
+- <https://modrinth.com/mod/lambdabettergrass> Incompatible with Create (worldshaper crash)
+- <https://modrinth.com/mod/dynamicsurroundings_remasteredfabric> Seems to be unstable and performance heavy
+- <https://modrinth.com/mod/server-chat-heads> Might be cool but doesn't seem too performant (yet)
+- <https://modrinth.com/mod/mods-command> Unnecessary since we're using Prism Launcher
+- <https://modrinth.com/mod/slashdiscord> Unnecessary since this is an invite-only server
 
 ### Accepted
 
@@ -264,7 +298,6 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - JourneyMap
 - Krypton
 - KubeJS
-- LambdaBetterGrass
 - LambDynamicLights
 - Language Reload
 - Lanyard
