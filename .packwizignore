@@ -19,3 +19,6 @@
 
 # Exclude readme
 README.md
+
+# Exclude Docker Compose file
+docker-compose.yml

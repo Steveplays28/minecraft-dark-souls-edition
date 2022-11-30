@@ -16,6 +16,7 @@
 - <https://modrinth.com/mod/decorative>
 - <https://www.curseforge.com/minecraft/mc-mods/reload-server-properties>
 - <https://modrinth.com/mod/fabricpvp>
+- <https://modrinth.com/mod/fog-looks-good-now>
 
 ### Untested
 
@@ -142,6 +143,7 @@ Tech
 - <https://modrinth.com/mod/disenchanter>
 - <https://modrinth.com/mod/furc>
 - <https://modrinth.com/mod/create-crystal-clear-fabric>
+- <https://modrinth.com/mod/striders-grace>
 
 Blocks/decorations
 
@@ -161,6 +163,8 @@ UI
 - <https://modrinth.com/mod/megane>
 - <https://modrinth.com/mod/why-am-i-on-fire>
 - <https://modrinth.com/mod/timetolive>
+- <https://modrinth.com/mod/tooltip-scroll>
+- <https://modrinth.com/mod/monsters-in-the-closet>
 
 Optimisation
 
@@ -169,6 +173,7 @@ Optimisation
 - <https://modrinth.com/mod/noxesium>
 - <https://modrinth.com/mod/moreculling>
 - <https://modrinth.com/mod/fabriccrossdimtpfix>
+- <https://modrinth.com/mod/entity-collision-fps-fix>
 
 Server
 
@@ -191,6 +196,7 @@ Server
 - <https://modrinth.com/mod/just-player-heads>
 - <https://modrinth.com/mod/aliases>
 - <https://modrinth.com/mod/name-tag-tweaks>
+- <https://modrinth.com/mod/better-safe-bed>
 
 ### Testing
 

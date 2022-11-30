@@ -37,6 +37,14 @@ file = "config/DistantHorizons.toml"
 hash = "409057ec95217df473d4faf54e340f2e6d32d35439929eefa9fdc78ddf2d4047"
 
 [[files]]
+file = "config/MiniMOTD/main.conf"
+hash = "22b986a7e39e3911a23e380d7b2feda98e0b69102acf2732e6176c2aee336224"
+
+[[files]]
+file = "config/MiniMOTD/plugin_settings.conf"
+hash = "fe88437fdd58b33029c24ed621a232733bad49f8bf48b1cbb80e0a4a25f46bdc"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "7d72f0a6cd64d7860a4000a6b1cb3c8a9cf6fe8a9fd971a105bca8432b494a8e"
 
@@ -262,7 +270,7 @@ hash = "4a3e5c2643b3e40f9a5edd3d540f788818dfdf382c19340393a47efefd52ecde"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "ed265294b269f29d60faf3a5ebcef182f07c08a7c78b1f9176c2d52e47468fd3"
+hash = "93fb929593ebc2acf18889aa7d003efc80ef4216717070e1b32a18199148a887"
 
 [[files]]
 file = "config/cameraoverhaul.json"
@@ -718,7 +726,7 @@ hash = "90d686731fa5c3bdeaf2f2901b5f1b2bc94aa3c648af64069e931f3e21180b70"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "9aba6c32989e3079ebea0e5cc21b185129dc402402932c0cb3b8eca9451caa39"
+hash = "d712b2167049cb83f4e0e2da3c54a25b8e20212d228b00403fdac977388cc714"
 
 [[files]]
 file = "config/styledplayerlist/config.json"

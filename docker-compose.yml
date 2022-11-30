@@ -1,0 +1,42 @@
+version: "3.8"
+
+services:
+  mc:
+    image: itzg/minecraft-server
+    container_name: "minecraft_steve_smp_s5_reloaded"
+    environment:
+      EULA: "true"
+      VERSION: "1.19.2"
+      RCON_PASSWORD: "minecraftquilt"
+      TYPE: QUILT
+      QUILT_LOADER_VERSION: "0.17.7-beta.1"
+      PACKWIZ_URL: "http://192.168.2.9:8080/pack.toml"
+      ENABLE_WHITELIST: "true"
+      ENFORCE_WHITELIST: "true"
+      SNOOPER_ENABLED: "false"
+      VIEW_DISTANCE: 8
+      SIMULATION_DISTANCE: 8
+      MEMORY: "6G"
+      SPAWN_PROTECTION: 0
+      ENABLE_COMMAND_BLOCK: "true"
+      LEVEL_TYPE: "terra:overworld/overworld"
+      ENABLE_ROLLING_LOGS: "true"
+      STOP_SERVER_ANNOUNCE_DELAY: 30
+      USE_AIKAR_FLAGS: "true"
+      GUI: "false"
+      MAX_TICK_TIME: -1
+      ENABLE_AUTOPAUSE: "true"
+      MAX_PLAYERS: 20
+      DIFFICULTY: "normal"
+      ALLOW_FLIGHT: "true"
+      MOTD: "Loading server, just a minute..."
+    ports:
+      - "25565:25565"
+      - "24454:24454/udp"
+    volumes:
+      - /volume1/docker/minecraft_steve_smp_s5_reloaded/data:/data
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+volumes:
+  data: {}
