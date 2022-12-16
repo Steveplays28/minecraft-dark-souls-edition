@@ -144,6 +144,7 @@ Tech
 - <https://modrinth.com/mod/furc>
 - <https://modrinth.com/mod/create-crystal-clear-fabric>
 - <https://modrinth.com/mod/striders-grace>
+- <https://www.curseforge.com/minecraft/mc-mods/create-chunkloading>
 
 Blocks/decorations
 
@@ -200,12 +201,7 @@ Server
 
 ### Testing
 
-- <https://modrinth.com/mod/invview>
-- <https://modrinth.com/mod/excavated_variants>
-- <https://modrinth.com/mod/fwaystones>
-- <https://modrinth.com/mod/owo-lib>
-- <https://modrinth.com/mod/dynamic_asset_generator>
-- <https://modrinth.com/mod/minimotd>
+
 
 ### Rejected
 
@@ -235,9 +231,10 @@ Server
 Generated using `packwiz list`, should be equal to the contents of the `mods/` folder.
 
 - 3D Skin Layers
-- Ad Astra!
 - Advanced Compass
 - Applied Energistics 2
+- All Block Variants
+- Alloy Forgery
 - Amecs
 - Any one of us
 - AppleSkin
@@ -279,6 +276,7 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - Debugify
 - Detail Armor Bar
 - Dynamic FPS
+- Dynamic Asset Generator
 - Eating Animation [Fabric]
 - Enhanced Block Entities
 - EditSign
@@ -287,8 +285,11 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - Emotecraft
 - Entity Collision FPS Fix
 - EntityCulling
+- Excavated Variants
 - ExtraSounds
+- Fabricated Chisel
 - Fabric Language Kotlin
+- Factory Blocks
 - FallingTree
 - FastAnim
 - Fastload
@@ -296,9 +297,12 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - First-person Model
 - Forge Config API Port
 - ForgetMeChunk
+- Fabric Waystones
+- Holograms
 - Indium
 - Inventory Profiles Next
 - InvMove
+- Inv View
 - Iris Shaders
 - JourneyMap Integration
 - JourneyMap
@@ -310,6 +314,7 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - LazyDFU
 - Lithium
 - Loading Screen Tips
+- luckperms-command-permissions-extension
 - LuckPerms
 - Main Menu Credits
 - Memory Leak Fix
@@ -317,6 +322,7 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - microDurability
 - MidnightLib
 - MinimalMenu
+- MiniMOTD
 - Mod Menu
 - Nbt Crafting
 - No Chat Reports
@@ -324,6 +330,7 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - NoRefreshScroll
 - Not Enough Animations
 - SomeOrdinaryTweaks
+- oωo (owo-lib)
 - Patchouli
 - Path under fence gates
 - Perfect Accuracy
@@ -352,6 +359,7 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - Simply Swords
 - Skip Transitions
 - Slider ClickSoundFix
+- Server Performance - Smooth Chunk Save[Forge/Fabric]
 - Smooth Boot (Fabric)
 - Sodium Crash Fix
 - Sodium Extra
@@ -370,6 +378,7 @@ Generated using `packwiz list`, should be equal to the contents of the `mods/` f
 - ToolTipFix
 - Trinkets
 - Unofficial Sodium Biome Blending Fix
+- Vanish
 - Visual Workbench
 - Voice Chat Interaction
 - Weaker Spiderwebs

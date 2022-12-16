@@ -838,11 +838,6 @@ file = "mods/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
 hash = "87e49eea3a73f9eb779fae72d0e17d384d523c7a3a22d410727134ce3c916b59"
 
 [[files]]
-file = "mods/ad-astra.pw.toml"
-hash = "67c4b2a7175fb35070d95927d7a8d2ff5ff8d9936cd67293a737e08a48f3c661"
-metafile = true
-
-[[files]]
 file = "mods/advanced-compass.pw.toml"
 hash = "483e2b965cb660b98ff48d09d8d7e4486c7cb5e4285e108f87462dd363f30f92"
 metafile = true
@@ -850,6 +845,16 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "ccafa1559f7296be0743d0971e5c81042a35d71e89c99df0c4ed1ee371f1664a"
+metafile = true
+
+[[files]]
+file = "mods/all-block-variants.pw.toml"
+hash = "9e5eb200bcc50b023a887c320e208f1f14bf42fca71948d93aea1d20ce017d06"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "824be6ecd42bef20ead6eaf146498330d09510a5771417ebc425d4ec3a3e138a"
 metafile = true
 
 [[files]]
@@ -1113,8 +1118,18 @@ hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
 
 [[files]]
+file = "mods/fabric-chisel.pw.toml"
+hash = "60a510b286618599b75dd8f3e1c7251384d9a9e85c6d808824a997b01d4454ca"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "cc572f7d696a52ea00f58bbc57eb10e4c6f90c808bdbf7b4425b28ad127d5b68"
 metafile = true
 
 [[files]]
@@ -1460,6 +1475,11 @@ metafile = true
 [[files]]
 file = "mods/sliderclicksoundfix.pw.toml"
 hash = "e25177e0459ebec87b50bb2692c50a0b139f8e7d4e2d295bf55cda7eb62bffad"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "ad6042e4db365e6be33c7562edf9a7f6a9373d389e408da2a25a35e2d0a8bca2"
 metafile = true
 
 [[files]]
