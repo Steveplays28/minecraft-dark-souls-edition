@@ -17,6 +17,7 @@
 - <https://www.curseforge.com/minecraft/mc-mods/reload-server-properties>
 - <https://modrinth.com/mod/fabricpvp>
 - <https://modrinth.com/mod/fog-looks-good-now>
+- <https://modrinth.com/datapack/rpgtitles> Might work already
 
 ### Untested
 
@@ -70,7 +71,6 @@
 - <https://modrinth.com/mod/more-geodes>
 - <https://modrinth.com/mod/incombustium>
 - <https://modrinth.com/mod/recipe-commands>
-- <https://modrinth.com/mod/consolemc> Might be dangerous to add.
 
 - <https://modrinth.com/mod/structure-compass>
 - <https://modrinth.com/mod/better-respawn>
@@ -86,7 +86,6 @@
 - <https://modrinth.com/mod/player-pronouns>
 - <https://modrinth.com/mod/styledplayerlist>
 - <https://modrinth.com/mod/player-events>
-- <https://modrinth.com/mod/offline-player-cache> PlayerEx uses the offline player API this mod provides to pull offline players' stats
 - <https://modrinth.com/mod/bettermod> No clue what some of these features are exactly, will need to test
 - <https://modrinth.com/mod/tabtps>
 - <https://modrinth.com/mod/carpet-fixes>
@@ -116,6 +115,7 @@
 - <https://modrinth.com/mod/immersive-paintings>
 - <https://modrinth.com/mod/yigd>
 - <https://modrinth.com/mod/picturesign>
+- <https://modrinth.com/mod/be-style-wither>
 
 Music
 
@@ -198,10 +198,8 @@ Server
 - <https://modrinth.com/mod/aliases>
 - <https://modrinth.com/mod/name-tag-tweaks>
 - <https://modrinth.com/mod/better-safe-bed>
-
-### Testing
-
-
+- <https://modrinth.com/mod/player-roles>
+- <https://modrinth.com/mod/styled-nicknames>
 
 ### Rejected
 
@@ -228,164 +226,7 @@ Server
 
 ### Accepted
 
-Generated using `packwiz list`, should be equal to the contents of the `mods/` folder.
-
-- 3D Skin Layers
-- Advanced Compass
-- Applied Energistics 2
-- All Block Variants
-- Alloy Forgery
-- Amecs
-- Any one of us
-- AppleSkin
-- Applied Energistics 2 Wireless Terminals
-- Architectury API
-- Areas
-- Arrow Popper
-- Axes Are Weapons
-- Bad Wither No Cookie - Reloaded
-- bad packets
-- Better Animations Collection
-- Better Combat
-- Better Ping Display [Fabric]
-- Blast Travel
-- Block Runner
-- Block Meter
-- Blur (Fabric)
-- Bobby
-- Botarium
-- Brainier Bees
-- Break Free
-- Concurrent Chunk Management Engine (Fabric)
-- Chat Heads
-- Chime
-- Chunky
-- Clean Logs
-- Cloth Config API
-- Collective
-- Combat Roll
-- Compass Commands
-- Connectible Chains [Fabric]
-- Continuity
-- Cosmetic Armor
-- Create Fabric
-- Creeper AI Updated
-- Custom LAN
-- DashLoader
-- Data Attributes
-- Debugify
-- Detail Armor Bar
-- Dynamic FPS
-- Dynamic Asset Generator
-- Eating Animation [Fabric]
-- Enhanced Block Entities
-- EditSign
-- Effective 💦
-- EMI
-- Emotecraft
-- Entity Collision FPS Fix
-- EntityCulling
-- Excavated Variants
-- ExtraSounds
-- Fabricated Chisel
-- Fabric Language Kotlin
-- Factory Blocks
-- FallingTree
-- FastAnim
-- Fastload
-- FerriteCore
-- First-person Model
-- Forge Config API Port
-- ForgetMeChunk
-- Fabric Waystones
-- Holograms
-- Indium
-- Inventory Profiles Next
-- InvMove
-- Inv View
-- Iris Shaders
-- JourneyMap Integration
-- JourneyMap
-- Krypton
-- KubeJS
-- LambDynamicLights
-- Language Reload
-- Lanyard
-- LazyDFU
-- Lithium
-- Loading Screen Tips
-- luckperms-command-permissions-extension
-- LuckPerms
-- Main Menu Credits
-- Memory Leak Fix
-- ME Requester
-- microDurability
-- MidnightLib
-- MinimalMenu
-- MiniMOTD
-- Mod Menu
-- Nbt Crafting
-- No Chat Reports
-- NoRecipeBook (Fabric)
-- NoRefreshScroll
-- Not Enough Animations
-- SomeOrdinaryTweaks
-- oωo (owo-lib)
-- Patchouli
-- Path under fence gates
-- Perfect Accuracy
-- physics-mod
-- Pingspam
-- playerAnimator
-- PlayerEx
-- Presence Footsteps
-- Puzzle
-- Puzzles Lib
-- Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)
-- Quilt Loading Screen
-- Realistic Sleep
-- Reese's Sodium Options
-- RelicEx
-- Repurposed Structures - Quilt/Fabric
-- Resourceful Lib
-- Rhino
-- Jukebox Particles
-- Nicer Portals
-- Pickup Notifications
-- Satin API
-- Scout
-- Secret Rooms
-- Simple Voice Chat
-- Simply Swords
-- Skip Transitions
-- Slider ClickSoundFix
-- Server Performance - Smooth Chunk Save[Forge/Fabric]
-- Smooth Boot (Fabric)
-- Sodium Crash Fix
-- Sodium Extra
-- Sodium Shadowy Path Blocks
-- Sodium
-- Sound Physics Remastered
-- Spiders Produce Webs
-- Starlight (Fabric)
-- Styled Chat
-- Styled Player List
-- Suggestion Provider Fix [Fabric]
-- Telepistons
-- Terra
-- Timestamp Chat
-- Tinkerer's Smithing
-- ToolTipFix
-- Trinkets
-- Unofficial Sodium Biome Blending Fix
-- Vanish
-- Visual Workbench
-- Voice Chat Interaction
-- Weaker Spiderwebs
-- YDM's Weapon Master
-- WTHIT
-- YetAnotherConfigLib
-- Zoomify
+Run the command `packwiz list`, or look inside the `/mods` directory.
 
 ## Documentation
 

@@ -1,7 +1,0 @@
-name = "luckperms-command-permissions-extension"
-filename = "minecraft-command-permissions-1.6.1.jar"
-
-[download]
-url = "https://github.com/lucko/minecraft-command-permissions-fabric/releases/download/v1.6.1/minecraft-command-permissions-1.6.1.jar"
-hash-format = "sha1"
-hash = "3931d704c01c18eee610595959b71857ebd455f2"

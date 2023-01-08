@@ -1,0 +1,13 @@
+name = "Deeper Oceans"
+filename = "deeper_oceans-1.19-v1-0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yqHsPROA/versions/Eh26YtIs/deeper_oceans-1.19-v1-0.jar"
+hash-format = "sha1"
+hash = "3584ee033c91ec0f713771410b8d46b106c781ef"
+
+[update]
+[update.modrinth]
+mod-id = "yqHsPROA"
+version = "Eh26YtIs"
