@@ -57,7 +57,6 @@
 - <https://www.curseforge.com/minecraft/mc-mods/berdinskiybears-armor-hud>
 - <https://modrinth.com/mod/fabrishot>
 
-- <https://modrinth.com/mod/crashbrander>
 - <https://modrinth.com/mod/itemswapper>
 - <https://modrinth.com/mod/origins-minus>
 - <https://modrinth.com/mod/switchy>
@@ -84,10 +83,7 @@
 - <https://modrinth.com/mod/custom-player-models>
 - <https://modrinth.com/mod/cpmsvcc>
 - <https://modrinth.com/mod/player-pronouns>
-- <https://modrinth.com/mod/styledplayerlist>
 - <https://modrinth.com/mod/player-events>
-- <https://modrinth.com/mod/bettermod> No clue what some of these features are exactly, will need to test
-- <https://modrinth.com/mod/tabtps>
 - <https://modrinth.com/mod/carpet-fixes>
 - <https://modrinth.com/mod/blanket>
 - <https://modrinth.com/mod/reacharound>
@@ -116,6 +112,32 @@
 - <https://modrinth.com/mod/yigd>
 - <https://modrinth.com/mod/picturesign>
 - <https://modrinth.com/mod/be-style-wither>
+- <https://modrinth.com/datapack/polls-and-voting>
+- <https://modrinth.com/datapack/better-end-crystals>
+- <https://modrinth.com/datapack/repurposed-structures---more-villagers-compat>
+- <https://modrinth.com/mod/bottled-air>
+- <https://modrinth.com/mod/infinity-water-bucket>
+- <https://modrinth.com/mod/immersive-armors>
+- <https://beta.curseforge.com/minecraft/mc-mods/item-highlighter-fabric>
+
+Resource packs
+
+- <https://modrinth.com/resourcepack/default-dark-mode>
+- <https://modrinth.com/resourcepack/even-better-enchants>
+- <https://modrinth.com/resourcepack/classic-3d>
+- <https://modrinth.com/resourcepack/icons>
+- <https://modrinth.com/resourcepack/hyper-realistic-sky>
+- <https://modrinth.com/resourcepack/aquahud>
+- <https://modrinth.com/resourcepack/unity>
+- <https://modrinth.com/resourcepack/redstonetweaksresourcepack>
+- <https://modrinth.com/resourcepack/blockstates>
+- <https://modrinth.com/resourcepack/simply3d>
+- <https://modrinth.com/resourcepack/fancy-doors>
+- <https://modrinth.com/resourcepack/all-the-fish>
+- <https://modrinth.com/resourcepack/selected>
+- <https://modrinth.com/resourcepack/geometric-font>
+- <https://modrinth.com/resourcepack/peeves>
+- <https://modrinth.com/resourcepack/background-transitions>
 
 Music
 
@@ -175,6 +197,7 @@ Optimisation
 - <https://modrinth.com/mod/moreculling>
 - <https://modrinth.com/mod/fabriccrossdimtpfix>
 - <https://modrinth.com/mod/entity-collision-fps-fix>
+- <https://modrinth.com/mod/cull-less-leaves>
 
 Server
 
@@ -194,7 +217,6 @@ Server
 - <https://modrinth.com/mod/bettertellraw>
 - <https://modrinth.com/mod/client-commands>
 - <https://modrinth.com/mod/kontrolo>
-- <https://modrinth.com/mod/just-player-heads>
 - <https://modrinth.com/mod/aliases>
 - <https://modrinth.com/mod/name-tag-tweaks>
 - <https://modrinth.com/mod/better-safe-bed>
@@ -223,6 +245,7 @@ Server
 - <https://modrinth.com/mod/server-chat-heads> Might be cool but doesn't seem too performant (yet)
 - <https://modrinth.com/mod/mods-command> Unnecessary since we're using Prism Launcher
 - <https://modrinth.com/mod/slashdiscord> Unnecessary since this is an invite-only server
+- <https://modrinth.com/mod/boilingwater> TPS issues
 
 ### Accepted
 

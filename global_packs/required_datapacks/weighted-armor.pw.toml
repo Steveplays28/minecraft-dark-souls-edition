@@ -1,0 +1,7 @@
+name = "weighted-armor"
+filename = "gm4_weighted_armour_1_19.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/ReZCIa6j/versions/Tz4l2tAE/gm4_weighted_armour_1_19.zip"
+hash-format = "sha1"
+hash = "de52b9efb12b992adbed41081e69ce0125569f3b"
