@@ -929,6 +929,11 @@ hash = "9a65d0348c683efc848cfe5e09b19851e8642fa2307491636c2bdac0e8122046"
 metafile = true
 
 [[files]]
+file = "mods/better-safe-bed.pw.toml"
+hash = "067ce28d816f9ecf8796dea0cb3ab4734683cd7ee0e80fa524af217c4c1ce381"
+metafile = true
+
+[[files]]
 file = "mods/blast-travel.pw.toml"
 hash = "a1cd9bc3565e9124e6293d6f4b08ce11ecfe23942c21bb696e769ffbb9708d3a"
 metafile = true
@@ -1299,6 +1304,11 @@ hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "77b91ea6143000151a890e4ec4635da39fe8d62ae89ef8dece5cf37d3a329023"
+metafile = true
+
+[[files]]
 file = "mods/loading-screen-tips.pw.toml"
 hash = "b30a38a6591c439204305a83bb2c42ae5206fc1bd550d9b0a1c871ab6f1c437c"
 metafile = true
@@ -1311,6 +1321,11 @@ metafile = true
 [[files]]
 file = "mods/manure.pw.toml"
 hash = "2c83e009fb677b314bba13d9c5ae8cccafb305f69b1f8fb5cc7063d88bcd9bae"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "8fc210e559beec112131674f234220f895018dc209b68d79cf8b280c10405d76"
 metafile = true
 
 [[files]]
@@ -1351,6 +1366,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
+metafile = true
+
+[[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "63914b645092557cf4824cf3be35e71f5cf8b9345a1c45de27d5da13e97b48f4"
 metafile = true
 
 [[files]]
@@ -1614,6 +1634,11 @@ hash = "82e6ed342c5c447fb8960a21dce44e18aea453d287e2b32e2951efed31cf4ba4"
 metafile = true
 
 [[files]]
+file = "mods/tempered-glass.pw.toml"
+hash = "8a5824fd08925b17c286c9376bee95b0ddec53693ceff06ee2836c9df31393da"
+metafile = true
+
+[[files]]
 file = "mods/timestamp-chat.pw.toml"
 hash = "5a2d646c2cfb2609ffb707226eeea8811f1318572794a3b0980fe13f3aede398"
 metafile = true
@@ -1661,6 +1686,11 @@ metafile = true
 [[files]]
 file = "mods/weaponmaster.pw.toml"
 hash = "ae1ff9ebe4ae5a4fd41d627cb6e5b3020c32a3a5e55e0454ef79c036582e2bab"
+metafile = true
+
+[[files]]
+file = "mods/why-am-i-on-fire.pw.toml"
+hash = "4e05d69954a46ff7c6d7efd3700ddabc745fa5f52d93f0638857c98f1a2f1244"
 metafile = true
 
 [[files]]

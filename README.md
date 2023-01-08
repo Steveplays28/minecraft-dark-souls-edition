@@ -75,7 +75,6 @@
 - <https://modrinth.com/mod/better-respawn>
 - <https://modrinth.com/mod/chat>
 - <https://modrinth.com/mod/player-tracking-compass>
-- <https://modrinth.com/mod/regional-chat>
 - <https://modrinth.com/mod/betterteamchat>
 - <https://modrinth.com/mod/stendhal>
 - <https://modrinth.com/mod/advancedchatbox>
@@ -147,7 +146,6 @@ Tech
 - <https://modrinth.com/mod/enhancedquarries>
 - <https://modrinth.com/mod/advanced-reborn>
 - <https://modrinth.com/mod/disenchanter>
-- <https://modrinth.com/mod/furc>
 - <https://modrinth.com/mod/create-crystal-clear-fabric>
 - <https://modrinth.com/mod/striders-grace>
 - <https://www.curseforge.com/minecraft/mc-mods/create-chunkloading>
@@ -156,27 +154,19 @@ Blocks/decorations
 
 - <https://modrinth.com/mod/led>
 - <https://modrinth.com/mod/half-doors>
-- <https://modrinth.com/mod/tempered-glass>
 - <https://modrinth.com/mod/puddles>
 - <https://modrinth.com/mod/particle-moths>
 - <https://modrinth.com/mod/particle-rain>
 - <https://modrinth.com/mod/sakura-blossoms>
-- <https://modrinth.com/mod/cullclouds>
 - <https://modrinth.com/mod/cave-dust>
 
 UI
 
-- <https://modrinth.com/mod/megane>
-- <https://modrinth.com/mod/why-am-i-on-fire>
 - <https://modrinth.com/mod/timetolive>
 - <https://modrinth.com/mod/tooltip-scroll>
-- <https://modrinth.com/mod/monsters-in-the-closet>
 
 Optimisation
 
-- <https://modrinth.com/mod/bedrodium>
-- <https://modrinth.com/mod/lmd>
-- <https://modrinth.com/mod/noxesium>
 - <https://modrinth.com/mod/fabriccrossdimtpfix>
 
 Server
@@ -184,7 +174,6 @@ Server
 - <https://modrinth.com/mod/server-side-replay-recorder>
 - <https://docs.papermc.io/velocity>
 - <https://www.curseforge.com/minecraft/mc-mods/kubejs-ui>
-- <https://modrinth.com/mod/servertick>
 - <https://modrinth.com/mod/essential-commands>
 - <https://modrinth.com/mod/compact-help-command>
 - <https://modrinth.com/mod/enchant-command-fix>
@@ -199,7 +188,6 @@ Server
 - <https://modrinth.com/mod/kontrolo>
 - <https://modrinth.com/mod/aliases>
 - <https://modrinth.com/mod/name-tag-tweaks>
-- <https://modrinth.com/mod/better-safe-bed>
 - <https://modrinth.com/mod/player-roles>
 - <https://modrinth.com/mod/styled-nicknames>
 
@@ -236,6 +224,14 @@ Server
 - <https://modrinth.com/mod/menumusic>
 - <https://modrinth.com/mod/mixtape>
 - <https://modrinth.com/mod/vibes>
+- <https://modrinth.com/mod/noxesium> Not sure if it's stable
+- <https://modrinth.com/mod/cull-less-leaves> Superseded by More Culling
+- <https://modrinth.com/mod/cullclouds> Superseded by More Culling
+- <https://modrinth.com/mod/bedrodium> Very small optimization, not sure if it's stable
+- <https://modrinth.com/mod/servertick> Superseded by Styled Player List
+- <https://modrinth.com/mod/tabtps> Superseded by Styled Player List
+- <https://modrinth.com/mod/regional-chat> Simple voice chat adds proximity voice chat, which will be the preferred way of communication for proximity chat
+- <https://modrinth.com/mod/furc> Probably incompatible with Create (and other mods in this modpack)
 
 ### Accepted
 
