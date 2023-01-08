@@ -885,12 +885,17 @@ metafile = true
 
 [[files]]
 file = "mods/areas.pw.toml"
-hash = "2319795a57df13c1749fa1930fdda1407a176829c094bb92b251535d2459b13b"
+hash = "abd50a3e6344dc82dc515c347a19ea26e866b2815278a946d2ff74db030efbe8"
 metafile = true
 
 [[files]]
 file = "mods/arrowpopper.pw.toml"
 hash = "4eed27eb953c169ea5e73d9acd86cb64b178d2d75b7152308f2caa280ee77048"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
 metafile = true
 
 [[files]]
@@ -995,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "072d8560e211ca06048bedc494224da54138359b1c9dccbff3819ef6a29ad916"
+hash = "37701f581414b4d172d23a70ae169e43ff3416d905c403e0e2c88ebf2dbcbbc8"
 metafile = true
 
 [[files]]
@@ -1076,6 +1081,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-music-updated.pw.toml"
+hash = "360a41ec8e51a4bdf8a84a0620c17e95a1ecad90b29c7a43d58adf5500ea5a69"
 metafile = true
 
 [[files]]
@@ -1349,6 +1359,16 @@ hash = "f028b83f9a0f8dd9ad0ce7cce41c110bc6bbdf03c57d02d30217786d5276695a"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "9506b1b7caa8550d12aecf50d02fbeeed90f3775a6597021f2953886e4d0eb47"
+metafile = true
+
+[[files]]
+file = "mods/moremusic.pw.toml"
+hash = "4444dd265044a2d24f4ca071269419d35dae1e42c78a3bed26a8a5004c83c81d"
+metafile = true
+
+[[files]]
 file = "mods/nbt-crafting.pw.toml"
 hash = "2f14b34b78569e3cdf0ed293855d869ef455c73055cfec9566f1d3efd06edc06"
 metafile = true
@@ -1441,6 +1461,11 @@ metafile = true
 [[files]]
 file = "mods/quilt-loading-screen.pw.toml"
 hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
+metafile = true
+
+[[files]]
+file = "mods/random-village-names.pw.toml"
+hash = "a41a54bb810a463af60d3cd2bc0588bea244f66033d2f29738487e24bd68a547"
 metafile = true
 
 [[files]]

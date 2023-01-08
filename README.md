@@ -139,22 +139,6 @@ Resource packs
 - <https://modrinth.com/resourcepack/peeves>
 - <https://modrinth.com/resourcepack/background-transitions>
 
-Music
-
-- <https://modrinth.com/mod/moremusic>
-- <https://modrinth.com/mod/iam-music-player>
-- <https://modrinth.com/mod/menumusic>
-- <https://modrinth.com/mod/dynamic-music-updated>
-- <https://modrinth.com/mod/mixtape>
-- <https://modrinth.com/mod/keepthatmusic>
-- <https://modrinth.com/mod/start-the-music>
-- <https://modrinth.com/mod/vibes>
-- <https://modrinth.com/mod/disco>
-- <https://modrinth.com/mod/ost-overhaul>
-- <https://modrinth.com/mod/playlist>
-- <https://modrinth.com/mod/tsg_modulardiscs>
-- <https://modrinth.com/mod/audioplayer>
-
 Tech
 
 - <https://www.curseforge.com/minecraft/mc-mods/techreborn>
@@ -170,7 +154,6 @@ Tech
 
 Blocks/decorations
 
-- <https://modrinth.com/mod/all-block-variants>
 - <https://modrinth.com/mod/led>
 - <https://modrinth.com/mod/half-doors>
 - <https://modrinth.com/mod/tempered-glass>
@@ -194,10 +177,7 @@ Optimisation
 - <https://modrinth.com/mod/bedrodium>
 - <https://modrinth.com/mod/lmd>
 - <https://modrinth.com/mod/noxesium>
-- <https://modrinth.com/mod/moreculling>
 - <https://modrinth.com/mod/fabriccrossdimtpfix>
-- <https://modrinth.com/mod/entity-collision-fps-fix>
-- <https://modrinth.com/mod/cull-less-leaves>
 
 Server
 
@@ -246,6 +226,16 @@ Server
 - <https://modrinth.com/mod/mods-command> Unnecessary since we're using Prism Launcher
 - <https://modrinth.com/mod/slashdiscord> Unnecessary since this is an invite-only server
 - <https://modrinth.com/mod/boilingwater> TPS issues
+- <https://modrinth.com/mod/keepthatmusic> Known bugs
+- <https://modrinth.com/mod/ost-overhaul> Crash on startup
+- <https://modrinth.com/mod/start-the-music>
+- <https://modrinth.com/mod/playlist>
+- <https://modrinth.com/mod/disco>
+- <https://modrinth.com/mod/tsg_modulardiscs>
+- <https://modrinth.com/mod/iam-music-player>
+- <https://modrinth.com/mod/menumusic>
+- <https://modrinth.com/mod/mixtape>
+- <https://modrinth.com/mod/vibes>
 
 ### Accepted
 

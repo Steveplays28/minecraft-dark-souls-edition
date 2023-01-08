@@ -1,0 +1,13 @@
+name = "Dynamic Music Updated"
+filename = "dynmus-2.2.1+1.19.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ilfn0HT9/versions/mxgsj1iq/dynmus-2.2.1%2B1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "c94d5cf2410e7d9e929878990f830ed0aa871a5b"
+
+[update]
+[update.modrinth]
+mod-id = "ilfn0HT9"
+version = "mxgsj1iq"
