@@ -209,6 +209,10 @@ file = "config/entityculling.json"
 hash = "d39b9e8286f4ef26c4e2c2d6404d0fd53d01c70716d72b8d860a9df0be57fe88"
 
 [[files]]
+file = "config/environmentz.json5"
+hash = "476268870e848d263fd91cc8eee24df66657e1aa688d500c4d8f724bd572c05f"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "b9e4dadfd12058694586073b37f9065c9be011b7dc68acbce0e5f898eeaf5292"
 
@@ -258,7 +262,7 @@ hash = "58b853f5fd324bd6a37c91e8f1523333701f79f50d1ae038c770389c670c7f36"
 
 [[files]]
 file = "config/itemphysic-client.json"
-hash = "77da86b54afe68c7d8cfe5404dd7f388c01878ff9c2cee0cd950c097f72f95a0"
+hash = "b33dd77b7eba80b80932c13257606b2880348549e7169b3bac487137cd0daf0a"
 
 [[files]]
 file = "config/itemphysic.json"
@@ -462,7 +466,7 @@ hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
 
 [[files]]
 file = "config/waila/waila.json"
-hash = "fd1fb9425708f0d297e051b65e3aff1ca2ec302848f108a7834186368d2e2e64"
+hash = "50ba5f15a0c14d96f2194a245893dbe87c25effdda8ea493e85544a082dafdb7"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
@@ -481,17 +485,17 @@ file = "config/zoomify.json"
 hash = "e8b970da05f98cbd469bbb7b04c071db84443a647624690a334bdfa0da988a3f"
 
 [[files]]
-file = "global_packs/required_datapacks/decapacitator.pw.toml"
+file = "global_packs/required_data/decapacitator.pw.toml"
 hash = "5d238451494df286463d339908a85312352278ff9790251591325b12558d9494"
 metafile = true
 
 [[files]]
-file = "global_packs/required_datapacks/rotten-flesh-to-leather.pw.toml"
+file = "global_packs/required_data/rotten-flesh-to-leather.pw.toml"
 hash = "b04991f88ef6270b16f57b9becf80a6b3a1a4d931bd053f03f5f47fc731548d2"
 metafile = true
 
 [[files]]
-file = "global_packs/required_datapacks/weighted-armor.pw.toml"
+file = "global_packs/required_data/weighted-armor.pw.toml"
 hash = "b5b1d19f16dc8b37e165d88f09fb3f0aef7e595515b07948bf1fcef7abc83ea0"
 metafile = true
 
@@ -544,6 +548,11 @@ hash = "824be6ecd42bef20ead6eaf146498330d09510a5771417ebc425d4ec3a3e138a"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "bcc01d6329bbe6dc0df4c84a158d940ab1666f83f33100e7cd7d6879276cc15b"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
 metafile = true
@@ -561,11 +570,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
-metafile = true
-
-[[files]]
-file = "mods/areas.pw.toml"
-hash = "abd50a3e6344dc82dc515c347a19ea26e866b2815278a946d2ff74db030efbe8"
 metafile = true
 
 [[files]]
@@ -829,6 +833,11 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
+file = "mods/environmentz.pw.toml"
+hash = "579086286090a33ec83876b8eb551d9fc8d7d5c22c2d2e68e2bec1ccf2186a6c"
+metafile = true
+
+[[files]]
 file = "mods/excavated_variants.pw.toml"
 hash = "c00fde57f8d17d69aa20f0185775373dd02f9cc036cac4f84755f7fea946edb1"
 metafile = true
@@ -999,6 +1008,11 @@ hash = "2c83e009fb677b314bba13d9c5ae8cccafb305f69b1f8fb5cc7063d88bcd9bae"
 metafile = true
 
 [[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "d0a976d524c797899a1729e354b0a327dde8442367cf7686e67a78f4fccba2f4"
+metafile = true
+
+[[files]]
 file = "mods/megane.pw.toml"
 hash = "8fc210e559beec112131674f234220f895018dc209b68d79cf8b280c10405d76"
 metafile = true
@@ -1161,11 +1175,6 @@ metafile = true
 [[files]]
 file = "mods/quilt-loading-screen.pw.toml"
 hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
-metafile = true
-
-[[files]]
-file = "mods/random-village-names.pw.toml"
-hash = "a41a54bb810a463af60d3cd2bc0588bea244f66033d2f29738487e24bd68a547"
 metafile = true
 
 [[files]]

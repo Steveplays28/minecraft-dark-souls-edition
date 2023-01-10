@@ -1,0 +1,13 @@
+name = "MapFrontiers"
+filename = "MapFrontiers-1.19.1-2.4.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hWlsli6y/versions/rWohuFcn/MapFrontiers-1.19.1-2.4.0-fabric.jar"
+hash-format = "sha1"
+hash = "2d7c7ac98387d7984604f71778ab55a22dd00891"
+
+[update]
+[update.modrinth]
+mod-id = "hWlsli6y"
+version = "rWohuFcn"
