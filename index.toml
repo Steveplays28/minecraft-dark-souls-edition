@@ -899,11 +899,6 @@ hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
 metafile = true
 
 [[files]]
-file = "mods/axes-are-weapons.pw.toml"
-hash = "17286bf8c9bcbb1aae16dca55cd42d139bb034e11bca5a5284808284330b0d98"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "b222649622d5431c13bab07d28483c08d7de21c3ba5032478edfadb3adf0fcf3"
 metafile = true
@@ -1181,11 +1176,6 @@ metafile = true
 [[files]]
 file = "mods/fastanim.pw.toml"
 hash = "eff34655a27563df3b1044015998fb1a627e9a04fff1ecb438ed14a34be555d0"
-metafile = true
-
-[[files]]
-file = "mods/fastload.pw.toml"
-hash = "affd68e9c1f17994031a066f18788f63649099d8ebc0f131e5db49c89f1be8e6"
 metafile = true
 
 [[files]]
