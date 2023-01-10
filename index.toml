@@ -1005,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "37701f581414b4d172d23a70ae169e43ff3416d905c403e0e2c88ebf2dbcbbc8"
+hash = "5c24df99479e3084fa6c789237f35ab256fa4d30ead8c7e2f77fa8081dec9c4d"
 metafile = true
 
 [[files]]
@@ -1239,6 +1239,11 @@ hash = "7e6a77d0ebdb13f5a90507620f22d7fb29926c6d9683366d48f61ed442727e69"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "9233d882e4c914db72499731aecd18de2c2b0099f9c73f54228e424a7cd3b3e3"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -1359,6 +1364,11 @@ hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
 metafile = true
 
 [[files]]
+file = "mods/missing-wilds.pw.toml"
+hash = "b5fe555103b7d74bee3d0fcb995340c4a3bc9e7aa36b4d65cfdff12aad5e3cd6"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -1374,8 +1384,8 @@ hash = "63914b645092557cf4824cf3be35e71f5cf8b9345a1c45de27d5da13e97b48f4"
 metafile = true
 
 [[files]]
-file = "mods/more-mobs.pw.toml"
-hash = "f028b83f9a0f8dd9ad0ce7cce41c110bc6bbdf03c57d02d30217786d5276695a"
+file = "mods/moonlight.pw.toml"
+hash = "eb6ad65bc55853f87bbd72085e690fd914318b94e3108bb6583b8da4363f480b"
 metafile = true
 
 [[files]]
@@ -1589,11 +1599,6 @@ hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
 metafile = true
 
 [[files]]
-file = "mods/spawn-animations.pw.toml"
-hash = "b4b8e10d243bf3b0c5a3e2346141adae563bc70156fdd111a27cf1de827c24be"
-metafile = true
-
-[[files]]
 file = "mods/spiders-produce-webs.pw.toml"
 hash = "87891a2b0dd74c052b5c4256a14499b93fb9dca89ec8abaa085a1cb772033bf8"
 metafile = true
@@ -1666,6 +1671,11 @@ metafile = true
 [[files]]
 file = "mods/vanish.pw.toml"
 hash = "ff4c69f691d9e8ec2aef08d4503619c18782380af9548bedc28952c37c49c9fe"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "9776271462003fc6637b58a44af2977e3bd481fb0f1918b9395b4df440aa4469"
 metafile = true
 
 [[files]]
