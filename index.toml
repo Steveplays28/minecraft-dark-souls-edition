@@ -137,6 +137,10 @@ file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "1f78af3a7217d2f5d9555b95f69c9cb4d51a221909f3cec1f50f3647d175d49e"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "1ca45b45c4f11495a523462522771598bcd125c332b20e8e2b0b1fd915e3b8f1"
 
@@ -894,7 +898,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgero.pw.toml"
-hash = "4ed97a2c6a0b95bcbaebd3fa1b149374d4bb56db223b5831033a6e2062fb1f1e"
+hash = "e4db99fb0a7d7538110877c4fff7b81789c8ed7bbe640f13a8a55db0ea190c6c"
 metafile = true
 
 [[files]]
