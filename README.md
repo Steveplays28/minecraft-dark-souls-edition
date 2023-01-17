@@ -190,6 +190,7 @@ Server
 - <https://modrinth.com/mod/name-tag-tweaks>
 - <https://modrinth.com/mod/player-roles>
 - <https://modrinth.com/mod/styled-nicknames>
+- <https://modrinth.com/mod/restore-chat-links>
 
 ### Rejected
 

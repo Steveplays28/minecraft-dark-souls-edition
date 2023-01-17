@@ -713,6 +713,11 @@ hash = "024e9ce1c59032baaf74867f7ceb8ec03e1de56bfa9ff8a8a14e4e00a91b3401"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "a66b926a25674c757a65b5451ed5d36c139a2bd7c1f523533b8fe2a9e893fb31"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "8307212122bce563afb27a5912eb9d81c160f4a20094abd30c8b5bb99a72d255"
 metafile = true
@@ -1038,6 +1043,11 @@ hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
 metafile = true
 
 [[files]]
+file = "mods/minecord.pw.toml"
+hash = "c1262560bad893089617ad132ec8fbafcbb942d798a997ab8c519b95a39e40b6"
+metafile = true
+
+[[files]]
 file = "mods/minimalmenu.pw.toml"
 hash = "75cbefdd9f19a1002c51190f033e464d9a3a96766bd243d3af1f1c7994555347"
 metafile = true
@@ -1140,6 +1150,11 @@ metafile = true
 [[files]]
 file = "mods/pingspam.pw.toml"
 hash = "643d60ae589f49ebeab43625b84cc94c9faea2f533ed9a067084cb2a2a1c4ff3"
+metafile = true
+
+[[files]]
+file = "mods/player-roles.pw.toml"
+hash = "fb0955b523963fbfe80c36f6ac7339348c39c1b0e35b3195dc55b9c41a65d1cf"
 metafile = true
 
 [[files]]
