@@ -229,6 +229,10 @@ file = "config/firstperson.json"
 hash = "89ce0f258ca66314aa9af1f2048809cece0de23293ae79dad629a722549bd10b"
 
 [[files]]
+file = "config/forgero_settings.json"
+hash = "59d3f3457d7df23e78730d2639192cd006e7c4ba73b726aea455e69bd6f18424"
+
+[[files]]
 file = "config/immersive_weathering-client.json"
 hash = "47d69db966b180f0897acdd3ec9f521829b6381a072e1a20aca69b785483cb74"
 
@@ -422,7 +426,7 @@ hash = "90d686731fa5c3bdeaf2f2901b5f1b2bc94aa3c648af64069e931f3e21180b70"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "d712b2167049cb83f4e0e2da3c54a25b8e20212d228b00403fdac977388cc714"
+hash = "da1df78b3879901462371ff72e5bf41fbe215b38c7ae6ca46a57e127469969f2"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
