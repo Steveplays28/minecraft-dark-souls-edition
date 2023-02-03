@@ -1,0 +1,7 @@
+name = "minecord-chat"
+filename = "minecord-chat-mc1.19-1.1.0-beta.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/DoVQa3oa/versions/PK5anx6l/minecord-chat-mc1.19-1.1.0-beta.3.jar"
+hash-format = "sha1"
+hash = "f2922dc8bdd347c0801528d61210f944d7300d86"

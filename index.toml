@@ -1061,6 +1061,16 @@ hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
 metafile = true
 
 [[files]]
+file = "mods/minecord-api.pw.toml"
+hash = "246fb20028a6efc41327ba07140650cc11967aba6b1b0880658edcbb2319466f"
+metafile = true
+
+[[files]]
+file = "mods/minecord-chat.pw.toml"
+hash = "056eff2730196d80426d1546f0f52ffa5629ff9464cf5e965a9fd9ed2025d3d2"
+metafile = true
+
+[[files]]
 file = "mods/minecord.pw.toml"
 hash = "c1262560bad893089617ad132ec8fbafcbb942d798a997ab8c519b95a39e40b6"
 metafile = true
