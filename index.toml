@@ -812,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "2ea6f38df595c78289617f94a13fc533fdacadf3cb7e7580d60a32529aaa1a44"
+hash = "c9b76faa13062eea32d52fac5e90ee7869700b487e53cf0307142dbaea5fb989"
 metafile = true
 
 [[files]]
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgero.pw.toml"
-hash = "e4db99fb0a7d7538110877c4fff7b81789c8ed7bbe640f13a8a55db0ea190c6c"
+hash = "30e18ba1627f0d1bcbc6f5520708c7a47dc26fc9e8f08f82c6b51883ca1e7100"
 metafile = true
 
 [[files]]
@@ -972,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "8834f08a9ac04ca30d92fa36810c53c7aac55ecf633cefc91e350640e65dc12d"
+hash = "30674895795238465a459627b3866840012db27328d9b5b5a319bfdcf4f65915"
 metafile = true
 
 [[files]]
@@ -1043,6 +1043,16 @@ metafile = true
 [[files]]
 file = "mods/microdurability.pw.toml"
 hash = "2c44f182a7875bcb8447c004078c79c4f7bad9ec3ccfe63586f2127f1fa74a58"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols-extra.pw.toml"
+hash = "563a2484af46ebe381f606733cce8e75450dc8de141a115bb82120ddfc47d535"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "3c65e87193d79b218c0636cdfeca699ad6edcdbea035abfc7ce59005f1b4fb42"
 metafile = true
 
 [[files]]
@@ -1187,7 +1197,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d34e602a503bc217e9e88ee9fb5389df14df0fd0fac247ff86d54df5c5176d76"
+hash = "f8abf37ca66a859e03c848166dfd7d82f4c89a22c7b4ec5b3f97890bda8438d7"
 metafile = true
 
 [[files]]
