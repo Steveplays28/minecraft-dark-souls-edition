@@ -1,6 +1,6 @@
 {
 	"isHoldToAttackEnabled": true,
-	"isMiningWithWeaponsEnabled": false,
+	"isMiningWithWeaponsEnabled": true,
 	"isSwingThruGrassEnabled": true,
 	"isHighlightCrosshairEnabled": true,
 	"hudHighlightColor": 16711680,

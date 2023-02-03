@@ -50,7 +50,7 @@ hash = "f40dbdbb65f24025622a07b8cf66cd12399278f2ef09eb4bc059d3da18c14b30"
 
 [[files]]
 file = "config/bettercombat/client.json5"
-hash = "586a27425822e65f5cf44548b903e0656632397100b531a3967080f8f33c7d39"
+hash = "3305bfea57ae0c006908f31ce4ac69eca04d2ac1959e1e8837549397c7dd5f89"
 
 [[files]]
 file = "config/bettercombat/fallback_compatibility.json"
