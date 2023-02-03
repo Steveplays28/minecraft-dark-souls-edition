@@ -706,6 +706,11 @@ hash = "221bc6df84e91b1f45f3ad23bf3c4a2ecf1a97aedbbd556783351c35c3f1bab2"
 metafile = true
 
 [[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "362b7c2a0bee20df39b4ec433e57f71307459b9132f05298ea7355407683accf"
+metafile = true
+
+[[files]]
 file = "mods/connectible_chains.pw.toml"
 hash = "fad528eecf196e7cd387a88a3668d135c7433540f959d6e754087e8046d904ee"
 metafile = true
@@ -1103,6 +1108,11 @@ metafile = true
 [[files]]
 file = "mods/moremusic.pw.toml"
 hash = "4444dd265044a2d24f4ca071269419d35dae1e42c78a3bed26a8a5004c83c81d"
+metafile = true
+
+[[files]]
+file = "mods/multiplayer-server-pause-fabric.pw.toml"
+hash = "3d94b64cfba577df9d071716d901f3c5417ac7c571d2ed696b467792a5441434"
 metafile = true
 
 [[files]]
