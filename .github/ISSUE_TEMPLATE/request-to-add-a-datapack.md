@@ -5,12 +5,13 @@ title: 'Add '
 labels: datapack, enhancement
 assignees: ''
 
+- type: input
+  id: datapack-link
+  attributes:
+	label: Datapack link
+	description: Datapack link, preferably from Modrinth, but CurseForge is allowed if there's no Modrinth version.
+	placeholder: https://modrinth.com/datapack/tectonic
+  validations:
+	required: true
+
 ---
-
-## Datapack
-
-[DATAPACK_NAME_HERE](DATAPACK_LINK_HERE)
-
-## Reasoning
-
-*Why do you want to add this datapack?*

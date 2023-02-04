@@ -5,12 +5,13 @@ title: Add
 labels: enhancement, mod
 assignees: ''
 
+- type: input
+  id: mod-link
+  attributes:
+	label: Mod link
+	description: Mod link, preferably from Modrinth, but CurseForge is allowed if there's no Modrinth version.
+	placeholder: https://modrinth.com/mod/sodium
+  validations:
+	required: true
+
 ---
-
-## Mod
-
-[MOD_NAME_HERE](MOD_LINK_HERE)
-
-## Reasoning
-
-*Why do you want to add this mod?*
