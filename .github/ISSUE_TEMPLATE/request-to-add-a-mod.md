@@ -7,7 +7,7 @@ assignees: ''
 
 body:
   - type: input
-    id: mod-link
+    id: link
     attributes:
       label: Mod link
       description: Mod link, preferably from Modrinth, but CurseForge is allowed if there's no Modrinth version.

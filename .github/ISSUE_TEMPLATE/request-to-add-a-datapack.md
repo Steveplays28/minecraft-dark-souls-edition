@@ -7,7 +7,7 @@ assignees: ''
 
 body:
   - type: input
-    id: datapack-link
+    id: link
     attributes:
       label: Datapack link
       description: Datapack link, preferably from Modrinth, but CurseForge is allowed if there's no Modrinth version.
