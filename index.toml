@@ -506,6 +506,11 @@ hash = "5d238451494df286463d339908a85312352278ff9790251591325b12558d9494"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/repurposed-structures-friends-and-foes-compat.pw.toml"
+hash = "98c9998daec7f646f02e675f50fcf3288eb17c5c0a3dfcd4d6a3c37044a4540d"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/rotten-flesh-to-leather.pw.toml"
 hash = "b04991f88ef6270b16f57b9becf80a6b3a1a4d931bd053f03f5f47fc731548d2"
 metafile = true
@@ -874,11 +879,6 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
-file = "mods/environmentz.pw.toml"
-hash = "579086286090a33ec83876b8eb551d9fc8d7d5c22c2d2e68e2bec1ccf2186a6c"
-metafile = true
-
-[[files]]
 file = "mods/excavated_variants.pw.toml"
 hash = "c00fde57f8d17d69aa20f0185775373dd02f9cc036cac4f84755f7fea946edb1"
 metafile = true
@@ -939,8 +939,18 @@ hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-quilt.pw.toml"
+hash = "11bbb5de01ff0d039673a86a5269ef4f3624b7c14a133fb3736b45972d5979dd"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "01229cc90ed07c223690033b98bd1cd3d04929c8e059a194cc50ebca8c3ca3f4"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
 
 [[files]]
@@ -1099,6 +1109,11 @@ hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
 metafile = true
 
 [[files]]
+file = "mods/minecells.pw.toml"
+hash = "31b6bd2456ce2fa90d930c42b4c1d4d4f416932f8c260421ece4e4e7516585e3"
+metafile = true
+
+[[files]]
 file = "mods/minimalmenu.pw.toml"
 hash = "75cbefdd9f19a1002c51190f033e464d9a3a96766bd243d3af1f1c7994555347"
 metafile = true
@@ -1116,6 +1131,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/mob-captains.pw.toml"
+hash = "88d1658e598887f005855808d6cefa786c4e33a1702eac3fe480206650fdea9a"
 metafile = true
 
 [[files]]
@@ -1269,6 +1289,11 @@ hash = "375e83bd28d7c8ed0c7a2680580f549395558f55c6d61a858719ce9edb8723af"
 metafile = true
 
 [[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
+metafile = true
+
+[[files]]
 file = "mods/roundaround-jukebox-particles.pw.toml"
 hash = "f385e7e6ce8706da33b8962267f5ce1e2a5eff3dd5a00a8f50ef9a6439c1db9a"
 metafile = true
@@ -1396,6 +1421,11 @@ metafile = true
 [[files]]
 file = "mods/tempered-glass.pw.toml"
 hash = "8a5824fd08925b17c286c9376bee95b0ddec53693ceff06ee2836c9df31393da"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "777dbe5953942756dfa642b0503146fc4cc6a82f50cf5aa4122fece8907ba3bb"
 metafile = true
 
 [[files]]

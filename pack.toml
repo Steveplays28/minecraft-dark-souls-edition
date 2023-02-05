@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b96d1a62347d87880c1856e69bc708dd48b6f0074817d1a69dde5e965296009f"
+hash = "09bd033f0937fb8f9f896621e29abc18282240ce7d697c168640ad3066865e4c"
 
 [versions]
 minecraft = "1.19.2"
@@ -14,3 +14,4 @@ quilt = "0.17.8"
 
 [options]
 acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]
+datapack-folder = "/global_packs/required_data"
