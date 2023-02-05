@@ -939,6 +939,11 @@ hash = "4e481612b735669542f7946101183962951c61350f856529d13d571feada0ae5"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e6a77d0ebdb13f5a90507620f22d7fb29926c6d9683366d48f61ed442727e69"
 metafile = true
@@ -1046,6 +1051,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+metafile = true
+
+[[files]]
+file = "mods/merchant-markers.pw.toml"
+hash = "1a0d6bc5252cc29e65887b9636aba1b79afb72d553243b88a149d361506a3495"
 metafile = true
 
 [[files]]
@@ -1284,6 +1294,11 @@ hash = "70b66e2a03d8a6531f0c6e71fa9d6d878ea8f42929ac43f4295b2a3111279b86"
 metafile = true
 
 [[files]]
+file = "mods/sky-villages.pw.toml"
+hash = "472e85c66624b2a93f2d1a25c4f01dcf534525e271e6e525c610411fa2d1fb9f"
+metafile = true
+
+[[files]]
 file = "mods/sliderclicksoundfix.pw.toml"
 hash = "e25177e0459ebec87b50bb2692c50a0b139f8e7d4e2d295bf55cda7eb62bffad"
 metafile = true
@@ -1381,6 +1396,16 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "6230511311dcd1e74e10121b78b1e6fb47d28f3fb5b2ecda533c7094a16862c0"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "26d8e1910d9054354b5e8c55c97167a76a0266fe73279aa302d35d1c9a0aaf9b"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "c71af8cb740fbf42b489ab24ee01ea0d09c3329cb9a62108b2b9dd85e721b3c8"
 metafile = true
 
 [[files]]
