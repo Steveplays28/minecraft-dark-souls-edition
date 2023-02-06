@@ -1567,31 +1567,31 @@ file = "rejected_mods.md"
 hash = "81abaf02ad2466ca60d24923caefc8faec9cfb2916f5995419572d673ddb4835"
 
 [[files]]
-file = "resourcepacks/better-water.pw.toml"
-hash = "87f4403a3e5c6b14e699bbf8798e2a1004c5f28b677ca4230398bbc37de5fb03"
-metafile = true
-
-[[files]]
 file = "resourcepacks/ctm-overhaul.pw.toml"
-hash = "e4e94663467c37cdb98946994985b457937a6ba4fb7186d2cbcb4e3ad79aa9cc"
+hash = "055bab153927a1cc34467cb2ed6c3bcd3260fedfaab6140f5f9f799511cfc519"
 metafile = true
 
 [[files]]
 file = "resourcepacks/visual-leaf-decay.pw.toml"
-hash = "648cbeacecf20193b8c43383c4e41cdbbf8943173a37fdba09ec13e00fbd42e3"
+hash = "05bb41d25db0b5559f019c1778fe22a7a9d03b3e05f55b87743bf44f67046a9a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
-hash = "48f4f41a78b48a73a93639d3c5805962c6f7ae8ba985cc509d9f70a5e031e216"
+hash = "653377752b486ddf811df91307da97fbb027ac0520626f37a32b1a2fd8c0bcd5"
 metafile = true
 
 [[files]]
-file = "shaderpacks/solasshader.pw.toml"
-hash = "a790520792ceb79a709fa4c4dcd2d3664d536e62a677a86d27e86e4fa98bfd03"
+file = "shaderpacks/epoch.pw.toml"
+hash = "5a4ac7a5a9f94c0f781d7d31b87b5b41711493dc27ab4e0ecbe881b8746757f5"
 metafile = true
 
 [[files]]
-file = "shaderpacks/vanilaaa.pw.toml"
-hash = "4abc951242ecf1363bf7162c02f55893c916320cbee62a47f8c3e29ea3772647"
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "224067f730c8cd269def3883caed3cdd2c93cc562455acd8f1cb337ca48c41a6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanillaa.pw.toml"
+hash = "5def7fe470d25c729d7356c856984ab517e8cbcdf0b01eced72aa1dc95accb3b"
 metafile = true

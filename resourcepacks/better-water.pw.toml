@@ -1,7 +1,0 @@
-name = "better-water"
-filename = "BW-1.19-1.19.2.zip"
-
-[download]
-url = "https://cdn.modrinth.com/data/sDf2tmD8/versions/Dz4lOWXM/BW-1.19-1.19.2.zip"
-hash-format = "sha1"
-hash = "3f5757c82f23fd42118535995892dbda9be4944c"
