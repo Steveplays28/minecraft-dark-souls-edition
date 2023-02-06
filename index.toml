@@ -381,6 +381,10 @@ file = "config/realisticsleep.json"
 hash = "e10af5c20be2d3387c0553314e54f9c0b70b821058e9b5eead629c0ef1b64b4a"
 
 [[files]]
+file = "config/replaymod.json"
+hash = "ec80be39e33685a707e2d5c4ba6da525dd5157b74597b328817815e6ddef2c15"
+
+[[files]]
 file = "config/repurposed_structures.json"
 hash = "ee6820850ced5fb35afb48ef64371d66b8c973eaad76c41b1cc6e46560161f7a"
 

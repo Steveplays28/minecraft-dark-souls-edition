@@ -8,7 +8,7 @@ My own SMP running a custom Packwiz modpack.
 
 - Java 17
 - Minecraft `1.19.2`
-- Quilt Loader `0.17.8`
+- Quilt Loader `0.17.10`
 - Quilted Fabric API `4.0.0-beta.27` (provides Fabric API `0.73.0`)
 - Quilt Standard Libraries `3.0.0-beta.29`
 
