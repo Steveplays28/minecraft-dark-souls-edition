@@ -245,6 +245,10 @@ file = "config/forgero_settings.json"
 hash = "59d3f3457d7df23e78730d2639192cd006e7c4ba73b726aea455e69bd6f18424"
 
 [[files]]
+file = "config/headshot.mcfg"
+hash = "19f3fd5a81d5a592f90bf567f9dccc6b8c0e24c4ab72ea35a82f8a2c56356722"
+
+[[files]]
 file = "config/immersive_weathering-client.json"
 hash = "47d69db966b180f0897acdd3ec9f521829b6381a072e1a20aca69b785483cb74"
 
@@ -394,7 +398,7 @@ hash = "5b4cf4a7d53e1ab8f0fa0afbae2008500a2fe99f67152922395ec9962bbf03e0"
 
 [[files]]
 file = "config/simplyswords/weapon_attributes.json5"
-hash = "967a1b4dc22d6998bc9a75fe11856ca0d26bb0bea847cd1228d519a6ad59d583"
+hash = "d317880bb3a641b9fa6a67ae5995cce0fb99fc999d0cb10f703fa30a4b8f35c6"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -499,6 +503,10 @@ hash = "4260262cc91b4b291fc2c89d735351a04a326563d7497de10f12d17ddad131f1"
 [[files]]
 file = "config/weaponmasterconfig.properties"
 hash = "6af244fa9118a6fee5430b24582961d12be2079bd8c160d669962cc30e7f4cab"
+
+[[files]]
+file = "config/yigd.toml"
+hash = "e91e67e502b9e6b7dd146296573a4a58aed5e861ec521143c8c790deabcffd37"
 
 [[files]]
 file = "config/zoomify.json"
@@ -710,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/breakfree.pw.toml"
 hash = "9d38f293c4de8b5f360e81b6ad0d396858f06b16e70acb4f131d937116ddcde6"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
 metafile = true
 
 [[files]]
@@ -981,6 +994,10 @@ metafile = true
 file = "mods/globalpacks.pw.toml"
 hash = "7cc764aef1bb942d7c5079f4f0c7a6e3a538e043d33186a64890ed869f56dc42"
 metafile = true
+
+[[files]]
+file = "mods/headshot-2.0.0.jar"
+hash = "51fd6039d9981a11aec83565366ed4eba97207812eb4306819674036e348b010"
 
 [[files]]
 file = "mods/holograms.pw.toml"
@@ -1530,6 +1547,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "d50f1f988b35d7b788d945fece5e8605daac9c9b819a23f2ed3f87e9142f4a24"
 metafile = true
 
 [[files]]
