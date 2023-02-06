@@ -405,10 +405,6 @@ file = "config/skinlayers.json"
 hash = "67369906ddb47a677d4d647904198dc29211d9dadf0a249be1d639d4107dd3ea"
 
 [[files]]
-file = "config/smoothboot.json"
-hash = "8e25c7d1b862b4f7106940f9f9df89210c6782b132d024bf6c25eabfeecb685a"
-
-[[files]]
 file = "config/sodium-extra-options.json"
 hash = "c4a219324c67167cc9b97c239bd3c4fe908ee4bdad9a6dcfdb341f64d6d8d88f"
 
@@ -593,11 +589,6 @@ metafile = true
 [[files]]
 file = "mods/all-block-variants.pw.toml"
 hash = "9e5eb200bcc50b023a887c320e208f1f14bf42fca71948d93aea1d20ce017d06"
-metafile = true
-
-[[files]]
-file = "mods/alloy-forgery.pw.toml"
-hash = "824be6ecd42bef20ead6eaf146498330d09510a5771417ebc425d4ec3a3e138a"
 metafile = true
 
 [[files]]
@@ -793,11 +784,6 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "a66b926a25674c757a65b5451ed5d36c139a2bd7c1f523533b8fe2a9e893fb31"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "8307212122bce563afb27a5912eb9d81c160f4a20094abd30c8b5bb99a72d255"
 metafile = true
 
 [[files]]
@@ -1027,11 +1013,6 @@ metafile = true
 [[files]]
 file = "mods/ingredient-extension-api.pw.toml"
 hash = "49ae038ac73483db0da9d34422656829397c5285cae5f82f1c86cab6cc93aef5"
-metafile = true
-
-[[files]]
-file = "mods/invmove.pw.toml"
-hash = "2f028c67b37fc7c906bcd8983e775c588b49d03a05953acc9a38e37cb275ea96"
 metafile = true
 
 [[files]]
