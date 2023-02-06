@@ -245,10 +245,6 @@ file = "config/forgero_settings.json"
 hash = "59d3f3457d7df23e78730d2639192cd006e7c4ba73b726aea455e69bd6f18424"
 
 [[files]]
-file = "config/headshot.mcfg"
-hash = "19f3fd5a81d5a592f90bf567f9dccc6b8c0e24c4ab72ea35a82f8a2c56356722"
-
-[[files]]
 file = "config/immersive_weathering-client.json"
 hash = "47d69db966b180f0897acdd3ec9f521829b6381a072e1a20aca69b785483cb74"
 
@@ -980,10 +976,6 @@ metafile = true
 file = "mods/globalpacks.pw.toml"
 hash = "7cc764aef1bb942d7c5079f4f0c7a6e3a538e043d33186a64890ed869f56dc42"
 metafile = true
-
-[[files]]
-file = "mods/headshot-2.0.0.jar"
-hash = "51fd6039d9981a11aec83565366ed4eba97207812eb4306819674036e348b010"
 
 [[files]]
 file = "mods/holograms.pw.toml"
