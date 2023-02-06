@@ -162,7 +162,7 @@ hash = "2732aa2dba8a9762b517665b9a67219647d81d4df93d9e1da3fbeaa7d0be2708"
 
 [[files]]
 file = "config/creeperaiupdated.json"
-hash = "1fe3614f6fe5aadeddb350dd32d2ed541c2aa2e3da6a1ba4056682f98ea4b898"
+hash = "59d1108530855109902cf76fd2c88ee8bb30ecb92abb8de192e5e2513ebd2ca0"
 
 [[files]]
 file = "config/customlan.json"
@@ -507,6 +507,26 @@ hash = "e8b970da05f98cbd469bbb7b04c071db84443a647624690a334bdfa0da988a3f"
 [[files]]
 file = "global_packs/required_data/decapacitator.pw.toml"
 hash = "5d238451494df286463d339908a85312352278ff9790251591325b12558d9494"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/repurposed-structures-better-desert-temples-compat.pw.toml"
+hash = "5e7eb65dea385c019f4d18dbc2c41e3453f4521cbe101868bf2fe73a93251372"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/repurposed-structures-better-dungeons-compat.pw.toml"
+hash = "090d34c4b3aa77fd11eacea4ea2ba002752af676a98de65d2f965add7262244a"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/repurposed-structures-better-ocean-monuments-compat.pw.toml"
+hash = "306816bf6f9adfd07cf4d591f88be1e20406184741b6f26527fe299cd405b4e2"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/repurposed-structures-better-strongholds-compat.pw.toml"
+hash = "31357651d409b1b9906dd5db07e1bffdbdb496b98aa68234e37885ea08f71590"
 metafile = true
 
 [[files]]
