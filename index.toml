@@ -53,6 +53,10 @@ file = "config/areas-fabric.json5"
 hash = "97f6392801d6939fb800741cabbe1934e52196fde048e90bcf0f61e9dca13ebb"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "bc952a3376bfd519f482b5702d244123ec000999199ae302f990bbfcdcdc3507"
+
+[[files]]
 file = "config/betteranimationscollection-client.toml"
 hash = "f40dbdbb65f24025622a07b8cf66cd12399278f2ef09eb4bc059d3da18c14b30"
 
@@ -98,7 +102,7 @@ hash = "782c937b8379138214b5d26a4383feada4cba68564af3d4be0ca073524376b70"
 
 [[files]]
 file = "config/cameraoverhaul.json"
-hash = "5392f7323eb83a4f202f862537a6772f64592b03932524a84313cb86df72c370"
+hash = "2e9d3a3e80e09dee6807ed7b0b9732db40e9d42452eff2a6b5da8da85bc2a15b"
 
 [[files]]
 file = "config/cem.conf"
@@ -158,7 +162,7 @@ hash = "2732aa2dba8a9762b517665b9a67219647d81d4df93d9e1da3fbeaa7d0be2708"
 
 [[files]]
 file = "config/creeperaiupdated.json"
-hash = "be17b40669d5b3f9125f3c02a90da2194fe343c1672db4ee042e9662ddce50cc"
+hash = "59d1108530855109902cf76fd2c88ee8bb30ecb92abb8de192e5e2513ebd2ca0"
 
 [[files]]
 file = "config/customlan.json"
@@ -239,6 +243,10 @@ hash = "89ce0f258ca66314aa9af1f2048809cece0de23293ae79dad629a722549bd10b"
 [[files]]
 file = "config/forgero_settings.json"
 hash = "59d3f3457d7df23e78730d2639192cd006e7c4ba73b726aea455e69bd6f18424"
+
+[[files]]
+file = "config/idwtialsimmoedm.json"
+hash = "4e57ba5a7b2349feb0d8a558c461c6db1297881add042755c0e036f729fd0dde"
 
 [[files]]
 file = "config/immersive_weathering-client.json"
@@ -390,15 +398,11 @@ hash = "5b4cf4a7d53e1ab8f0fa0afbae2008500a2fe99f67152922395ec9962bbf03e0"
 
 [[files]]
 file = "config/simplyswords/weapon_attributes.json5"
-hash = "967a1b4dc22d6998bc9a75fe11856ca0d26bb0bea847cd1228d519a6ad59d583"
+hash = "d317880bb3a641b9fa6a67ae5995cce0fb99fc999d0cb10f703fa30a4b8f35c6"
 
 [[files]]
 file = "config/skinlayers.json"
 hash = "67369906ddb47a677d4d647904198dc29211d9dadf0a249be1d639d4107dd3ea"
-
-[[files]]
-file = "config/smoothboot.json"
-hash = "8e25c7d1b862b4f7106940f9f9df89210c6782b132d024bf6c25eabfeecb685a"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -497,12 +501,41 @@ file = "config/weaponmasterconfig.properties"
 hash = "6af244fa9118a6fee5430b24582961d12be2079bd8c160d669962cc30e7f4cab"
 
 [[files]]
+file = "config/yigd.toml"
+hash = "e91e67e502b9e6b7dd146296573a4a58aed5e861ec521143c8c790deabcffd37"
+
+[[files]]
 file = "config/zoomify.json"
 hash = "e8b970da05f98cbd469bbb7b04c071db84443a647624690a334bdfa0da988a3f"
 
 [[files]]
-file = "global_packs/required_data/decapacitator.pw.toml"
-hash = "5d238451494df286463d339908a85312352278ff9790251591325b12558d9494"
+file = "global_packs/required_data/decapitator.pw.toml"
+hash = "eb93a36a51f9cfafff52adcc45469533fa6915f1ea0add2e1267dc87351d140d"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/gm4-weighted-armor.pw.toml"
+hash = "019aa083332c18d54c2f4837f6d8edb8e9e874a5927d94674758e9376d2ffd61"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/repurposed-structures-better-desert-temples-compat.pw.toml"
+hash = "5e7eb65dea385c019f4d18dbc2c41e3453f4521cbe101868bf2fe73a93251372"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/repurposed-structures-better-dungeons-compat.pw.toml"
+hash = "090d34c4b3aa77fd11eacea4ea2ba002752af676a98de65d2f965add7262244a"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/repurposed-structures-better-ocean-monuments-compat.pw.toml"
+hash = "306816bf6f9adfd07cf4d591f88be1e20406184741b6f26527fe299cd405b4e2"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/repurposed-structures-better-strongholds-compat.pw.toml"
+hash = "31357651d409b1b9906dd5db07e1bffdbdb496b98aa68234e37885ea08f71590"
 metafile = true
 
 [[files]]
@@ -512,12 +545,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_data/rotten-flesh-to-leather.pw.toml"
-hash = "b04991f88ef6270b16f57b9becf80a6b3a1a4d931bd053f03f5f47fc731548d2"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/weighted-armor.pw.toml"
-hash = "b5b1d19f16dc8b37e165d88f09fb3f0aef7e595515b07948bf1fcef7abc83ea0"
+hash = "29777b160a2dc7647a811792ea2217657d7bffe2bea31140b016041db62970a0"
 metafile = true
 
 [[files]]
@@ -561,11 +589,6 @@ metafile = true
 [[files]]
 file = "mods/all-block-variants.pw.toml"
 hash = "9e5eb200bcc50b023a887c320e208f1f14bf42fca71948d93aea1d20ce017d06"
-metafile = true
-
-[[files]]
-file = "mods/alloy-forgery.pw.toml"
-hash = "824be6ecd42bef20ead6eaf146498330d09510a5771417ebc425d4ec3a3e138a"
 metafile = true
 
 [[files]]
@@ -689,6 +712,16 @@ hash = "9d38f293c4de8b5f360e81b6ad0d396858f06b16e70acb4f131d937116ddcde6"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "a8941617ee1fa2beb04fad13cf38f33fe435d236a61c233c5daa583e56d00a42"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8440097630bb5576edaf891db7490fe9e6a6c996670e6d25b6bd027712db6050"
 metafile = true
@@ -756,11 +789,6 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "a66b926a25674c757a65b5451ed5d36c139a2bd7c1f523533b8fe2a9e893fb31"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "8307212122bce563afb27a5912eb9d81c160f4a20094abd30c8b5bb99a72d255"
 metafile = true
 
 [[files]]
@@ -869,6 +897,11 @@ hash = "1b3706e9e9c79ad136499976a2fd48a60a33f9820ccabdf9aeac76475255b259"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-table-descriptions.pw.toml"
+hash = "b7a5b011e2bc90a4a6942e5bd0ca20b02ea3ad4f02938967563bef03ff34140a"
+metafile = true
+
+[[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
@@ -969,6 +1002,11 @@ hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
 metafile = true
 
 [[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "6fd7515689f5d615195b919471c55704adb1937ca5f78950b238b9b45ecb1b07"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e6a77d0ebdb13f5a90507620f22d7fb29926c6d9683366d48f61ed442727e69"
 metafile = true
@@ -986,11 +1024,6 @@ metafile = true
 [[files]]
 file = "mods/ingredient-extension-api.pw.toml"
 hash = "49ae038ac73483db0da9d34422656829397c5285cae5f82f1c86cab6cc93aef5"
-metafile = true
-
-[[files]]
-file = "mods/invmove.pw.toml"
-hash = "2f028c67b37fc7c906bcd8983e775c588b49d03a05953acc9a38e37cb275ea96"
 metafile = true
 
 [[files]]
@@ -1509,6 +1542,11 @@ hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
 metafile = true
 
 [[files]]
+file = "mods/yigd.pw.toml"
+hash = "d50f1f988b35d7b788d945fece5e8605daac9c9b819a23f2ed3f87e9142f4a24"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d6126b71de887bf0b23a4a064b5f9ebb2f4848533f3b098703c3917ba63e5c69"
 metafile = true
@@ -1548,31 +1586,46 @@ file = "rejected_mods.md"
 hash = "81abaf02ad2466ca60d24923caefc8faec9cfb2916f5995419572d673ddb4835"
 
 [[files]]
-file = "resourcepacks/better-water.pw.toml"
-hash = "87f4403a3e5c6b14e699bbf8798e2a1004c5f28b677ca4230398bbc37de5fb03"
-metafile = true
-
-[[files]]
 file = "resourcepacks/ctm-overhaul.pw.toml"
-hash = "e4e94663467c37cdb98946994985b457937a6ba4fb7186d2cbcb4e3ad79aa9cc"
+hash = "055bab153927a1cc34467cb2ed6c3bcd3260fedfaab6140f5f9f799511cfc519"
 metafile = true
 
 [[files]]
 file = "resourcepacks/visual-leaf-decay.pw.toml"
-hash = "648cbeacecf20193b8c43383c4e41cdbbf8943173a37fdba09ec13e00fbd42e3"
+hash = "05bb41d25db0b5559f019c1778fe22a7a9d03b3e05f55b87743bf44f67046a9a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
-hash = "48f4f41a78b48a73a93639d3c5805962c6f7ae8ba985cc509d9f70a5e031e216"
+hash = "653377752b486ddf811df91307da97fbb027ac0520626f37a32b1a2fd8c0bcd5"
 metafile = true
 
 [[files]]
-file = "shaderpacks/solasshader.pw.toml"
-hash = "a790520792ceb79a709fa4c4dcd2d3664d536e62a677a86d27e86e4fa98bfd03"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "829f22ff7ec6a5a09d8d6353f91d79167018f2f71e2f144f188e19d4749b1a02"
 metafile = true
 
 [[files]]
-file = "shaderpacks/vanilaaa.pw.toml"
-hash = "4abc951242ecf1363bf7162c02f55893c916320cbee62a47f8c3e29ea3772647"
+file = "shaderpacks/epoch.pw.toml"
+hash = "5a4ac7a5a9f94c0f781d7d31b87b5b41711493dc27ab4e0ecbe881b8746757f5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "a2a53fc93e00e8fb3c38c3d11dd30d777bc9dd92bfeca64c4eb42dacc34c6e7f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "9f854cd9c0d1005faf8a004cc3781d0a6ee9b169236d7fbb98beee8ec0b0ad65"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "224067f730c8cd269def3883caed3cdd2c93cc562455acd8f1cb337ca48c41a6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanillaa.pw.toml"
+hash = "5def7fe470d25c729d7356c856984ab517e8cbcdf0b01eced72aa1dc95accb3b"
 metafile = true

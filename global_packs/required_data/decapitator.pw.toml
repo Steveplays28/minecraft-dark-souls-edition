@@ -1,7 +1,13 @@
-name = "decapacitator"
+name = "Decapitator"
 filename = "decapitator_1.19.2.zip"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/bLBbv0my/versions/M5oj1VKF/decapitator_1.19.2.zip"
 hash-format = "sha1"
 hash = "840b3754467f56daca233bcc9f2a90099dd86336"
+
+[update]
+[update.modrinth]
+mod-id = "bLBbv0my"
+version = "M5oj1VKF"

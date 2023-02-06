@@ -1,7 +1,13 @@
-name = "rotten-flesh-to-leather"
+name = "Rotten Flesh to Leather"
 filename = "rotten-flesh-to-leather_1.19.2.zip"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8kLBMwES/versions/5tzChWlg/rotten-flesh-to-leather_1.19.2.zip"
 hash-format = "sha1"
 hash = "acd849e27bb98d3d2cf05121deea94a03ce8759f"
+
+[update]
+[update.modrinth]
+mod-id = "8kLBMwES"
+version = "5tzChWlg"

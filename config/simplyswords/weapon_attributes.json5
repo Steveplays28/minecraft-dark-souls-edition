@@ -53,20 +53,20 @@
 // -- Attack Speed Modifiers -- 
 // Recommended range: -1.0 to -3.7, with -1.0 being fast and -3.7 being slow 
 // ---------------------------- 
-  "longsword_attackspeed": -2.4,
-  "twinblade_attackspeed": -1.7,
-  "rapier_attackspeed": -1.6,
-  "katana_attackspeed": -2.0,
-  "sai_attackspeed": -1.1,
-  "spear_attackspeed": -2.7,
+  "longsword_attackspeed": -2.9,
+  "twinblade_attackspeed": -2.6,
+  "rapier_attackspeed": -2.8,
+  "katana_attackspeed": -3.0,
+  "sai_attackspeed": -2.5,
+  "spear_attackspeed": -3.0,
   "glaive_attackspeed": -2.6,
   "warglaive_attackspeed": -2.2,
   "cutlass_attackspeed": -2.0,
-  "claymore_attackspeed": -2.8,
-  "greataxe_attackspeed": -3.1,
-  "greathammer_attackspeed": -3.2,
+  "claymore_attackspeed": -3.1,
+  "greataxe_attackspeed": -3.3,
+  "greathammer_attackspeed": -3.3,
   "chakram_attackspeed": -3.0,
-  "scythe_attackspeed": -2.7,
+  "scythe_attackspeed": -3.1,
 
 
 // -- UNIQUE ATTRIBUTES CONFIGURATION -- 
