@@ -4,10 +4,11 @@
   "strafingRollFactorWhenFlying": -0.5,
   "strafingRollFactorWhenSwimming": -0.5,
   "yawDeltaRollFactor": 0.5,
-  "verticalVelocityPitchFactor": 0.5,
+  "verticalVelocityPitchFactor": 1.0,
   "forwardVelocityPitchFactor": 0.5,
-  "horizontalVelocityInterpolationSpeed": 0.25,
-  "verticalVelocityInterpolationSpeed": 0.75,
-  "yawDeltaInterpolationSpeed": 1.0,
+  "horizontalVelocitySmoothingFactor": 0.8,
+  "verticalVelocitySmoothingFactor": 0.8,
+  "yawDeltaSmoothingFactor": 0.8,
+  "yawDeltaDecayFactor": 0.5,
   "configVersion": 1
 }

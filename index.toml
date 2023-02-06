@@ -708,6 +708,11 @@ hash = "9d38f293c4de8b5f360e81b6ad0d396858f06b16e70acb4f131d937116ddcde6"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "a8941617ee1fa2beb04fad13cf38f33fe435d236a61c233c5daa583e56d00a42"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
 metafile = true
