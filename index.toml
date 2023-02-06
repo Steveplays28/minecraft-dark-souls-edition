@@ -102,7 +102,7 @@ hash = "782c937b8379138214b5d26a4383feada4cba68564af3d4be0ca073524376b70"
 
 [[files]]
 file = "config/cameraoverhaul.json"
-hash = "5392f7323eb83a4f202f862537a6772f64592b03932524a84313cb86df72c370"
+hash = "2e9d3a3e80e09dee6807ed7b0b9732db40e9d42452eff2a6b5da8da85bc2a15b"
 
 [[files]]
 file = "config/cem.conf"
@@ -243,6 +243,10 @@ hash = "89ce0f258ca66314aa9af1f2048809cece0de23293ae79dad629a722549bd10b"
 [[files]]
 file = "config/forgero_settings.json"
 hash = "59d3f3457d7df23e78730d2639192cd006e7c4ba73b726aea455e69bd6f18424"
+
+[[files]]
+file = "config/idwtialsimmoedm.json"
+hash = "4e57ba5a7b2349feb0d8a558c461c6db1297881add042755c0e036f729fd0dde"
 
 [[files]]
 file = "config/immersive_weathering-client.json"
@@ -505,8 +509,13 @@ file = "config/zoomify.json"
 hash = "e8b970da05f98cbd469bbb7b04c071db84443a647624690a334bdfa0da988a3f"
 
 [[files]]
-file = "global_packs/required_data/decapacitator.pw.toml"
-hash = "5d238451494df286463d339908a85312352278ff9790251591325b12558d9494"
+file = "global_packs/required_data/decapitator.pw.toml"
+hash = "eb93a36a51f9cfafff52adcc45469533fa6915f1ea0add2e1267dc87351d140d"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/gm4-weighted-armor.pw.toml"
+hash = "019aa083332c18d54c2f4837f6d8edb8e9e874a5927d94674758e9376d2ffd61"
 metafile = true
 
 [[files]]
@@ -536,12 +545,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_data/rotten-flesh-to-leather.pw.toml"
-hash = "b04991f88ef6270b16f57b9becf80a6b3a1a4d931bd053f03f5f47fc731548d2"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/weighted-armor.pw.toml"
-hash = "b5b1d19f16dc8b37e165d88f09fb3f0aef7e595515b07948bf1fcef7abc83ea0"
+hash = "29777b160a2dc7647a811792ea2217657d7bffe2bea31140b016041db62970a0"
 metafile = true
 
 [[files]]
@@ -893,6 +897,11 @@ hash = "1b3706e9e9c79ad136499976a2fd48a60a33f9820ccabdf9aeac76475255b259"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-table-descriptions.pw.toml"
+hash = "b7a5b011e2bc90a4a6942e5bd0ca20b02ea3ad4f02938967563bef03ff34140a"
+metafile = true
+
+[[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
@@ -990,6 +999,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
+metafile = true
+
+[[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "6fd7515689f5d615195b919471c55704adb1937ca5f78950b238b9b45ecb1b07"
 metafile = true
 
 [[files]]
