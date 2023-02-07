@@ -1490,11 +1490,6 @@ hash = "4589dd561f1b684e0cb4828c78a94e2ca35eb4e3d9dc3e1050f4d98931e4ea09"
 metafile = true
 
 [[files]]
-file = "mods/voice-chat-interaction.pw.toml"
-hash = "6623e72df111d528d87a4406940d83ac8394fe646e2add770c1b48d168dab07d"
-metafile = true
-
-[[files]]
 file = "mods/weaker-spiderwebs.pw.toml"
 hash = "44410ab50cf37b292a322d8721b26d8a255877cfdb178f993aef11a3f3489473"
 metafile = true
