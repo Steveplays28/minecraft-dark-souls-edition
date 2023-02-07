@@ -60,7 +60,7 @@
     "mulch_grows_crops": true,
     "composter_dirt": true,
     "desire_paths": true,
-    "desire_path_rate": 2,
+    "desire_path_rate": 0.05,
     "grass_over_mycelium": true,
     "mycelium_over_grass": true,
     "generic_bark": "",
@@ -69,7 +69,7 @@
   },
   "leaf_piles": {
     "leaf_piles_slow": true,
-    "spawn_entity_from_decay": 0.3,
+    "spawn_entity_from_decay": 0,
     "reach": 12,
     "max_pile_height": 3,
     "leaf_piles_blacklist": []

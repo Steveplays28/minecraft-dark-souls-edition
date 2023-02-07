@@ -258,7 +258,7 @@ hash = "47d69db966b180f0897acdd3ec9f521829b6381a072e1a20aca69b785483cb74"
 
 [[files]]
 file = "config/immersive_weathering-common.json"
-hash = "139a36c93b73c010a3215a4ede27c1ba0aef058fa7b7128afdaeb505810426c2"
+hash = "ff685b4d6d372eeb6e2c6c3bba3b0c7c9e6648a3748d034a64b77b3ed21dd154"
 
 [[files]]
 file = "config/inventoryprofilesnext/Terra 2/lockSlots.txt"
@@ -1437,11 +1437,6 @@ metafile = true
 [[files]]
 file = "mods/tempered-glass.pw.toml"
 hash = "8a5824fd08925b17c286c9376bee95b0ddec53693ceff06ee2836c9df31393da"
-metafile = true
-
-[[files]]
-file = "mods/the-graveyard-fabric.pw.toml"
-hash = "777dbe5953942756dfa642b0503146fc4cc6a82f50cf5aa4122fece8907ba3bb"
 metafile = true
 
 [[files]]
