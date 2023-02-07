@@ -378,7 +378,7 @@ hash = "d54d2c1c0bc58c890f4fdf081097b5b2a2886da9ab151cde135686d0f8f96ecb"
 
 [[files]]
 file = "config/realisticsleep.json"
-hash = "e10af5c20be2d3387c0553314e54f9c0b70b821058e9b5eead629c0ef1b64b4a"
+hash = "f03928863418eecc60b9f7148b2ef265927ea4594d02ce09676235102bc8f528"
 
 [[files]]
 file = "config/replaymod.json"
@@ -1080,6 +1080,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "1f1435768beb36acf48e3a0f385a4423f2ee3d43ef42d7de138bd3a39b2559a2"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
@@ -1310,9 +1315,8 @@ hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
 metafile = true
 
 [[files]]
-file = "mods/realisticsleep.pw.toml"
-hash = "7b16ef48b0a5b0fa62092c998d0eb90de34f868f6cba5db46f2f50ba526627ce"
-metafile = true
+file = "mods/realisticsleep-1.7.0.jar"
+hash = "6213e0d001d596b27cd42903c50b35a5809c27d6b40f27b4e21a9d7ffb7e4026"
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
