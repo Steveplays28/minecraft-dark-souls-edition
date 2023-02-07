@@ -33,6 +33,10 @@ file = "config/NoChatReports/NCR-ServerWhitelist.json"
 hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
 
 [[files]]
+file = "config/ServerSideReplayRecorder.properties"
+hash = "8546dccf13e26358caf03b20bf692d8a7b8460e03491133d8803def55b3265d4"
+
+[[files]]
 file = "config/SkipTransitions.properties"
 hash = "65c60525a8520ef94fb060b187bc73dd57128c77d865d5e417538823eb97c679"
 
@@ -374,7 +378,11 @@ hash = "d54d2c1c0bc58c890f4fdf081097b5b2a2886da9ab151cde135686d0f8f96ecb"
 
 [[files]]
 file = "config/realisticsleep.json"
-hash = "e10af5c20be2d3387c0553314e54f9c0b70b821058e9b5eead629c0ef1b64b4a"
+hash = "f03928863418eecc60b9f7148b2ef265927ea4594d02ce09676235102bc8f528"
+
+[[files]]
+file = "config/replaymod.json"
+hash = "ec80be39e33685a707e2d5c4ba6da525dd5157b74597b328817815e6ddef2c15"
 
 [[files]]
 file = "config/repurposed_structures.json"
@@ -1072,6 +1080,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "1f1435768beb36acf48e3a0f385a4423f2ee3d43ef42d7de138bd3a39b2559a2"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
@@ -1302,13 +1315,22 @@ hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
 metafile = true
 
 [[files]]
-file = "mods/realisticsleep.pw.toml"
-hash = "7b16ef48b0a5b0fa62092c998d0eb90de34f868f6cba5db46f2f50ba526627ce"
-metafile = true
+file = "mods/realisticsleep-1.7.0.jar"
+hash = "6213e0d001d596b27cd42903c50b35a5809c27d6b40f27b4e21a9d7ffb7e4026"
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+metafile = true
+
+[[files]]
+file = "mods/replay-voice-chat.pw.toml"
+hash = "ca9f98d3618645826c463d57ad16706f479f49bc38d1d439ced52bf5a3a36cad"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "04f8f8b903ea1b32de55cada48745016ea4c3ab7667a01f26ddf051b2efd731e"
 metafile = true
 
 [[files]]
@@ -1349,6 +1371,11 @@ metafile = true
 [[files]]
 file = "mods/scout.pw.toml"
 hash = "9220edac770c544c7c4aab53580f9a01b8e9e7a82e17f4bd7d4432b1b48998c9"
+metafile = true
+
+[[files]]
+file = "mods/server-side-replay-recorder.pw.toml"
+hash = "e3c8e30b266f04e59d6a5ad0071165511e164607d037208a4cb060a656881fe2"
 metafile = true
 
 [[files]]
