@@ -1105,11 +1105,6 @@ hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
-file = "mods/manure.pw.toml"
-hash = "2c83e009fb677b314bba13d9c5ae8cccafb305f69b1f8fb5cc7063d88bcd9bae"
-metafile = true
-
-[[files]]
 file = "mods/mapfrontiers.pw.toml"
 hash = "d0a976d524c797899a1729e354b0a327dde8442367cf7686e67a78f4fccba2f4"
 metafile = true
@@ -1313,10 +1308,6 @@ metafile = true
 file = "mods/quilt-loading-screen.pw.toml"
 hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
 metafile = true
-
-[[files]]
-file = "mods/realisticsleep-1.7.0.jar"
-hash = "6213e0d001d596b27cd42903c50b35a5809c27d6b40f27b4e21a9d7ffb7e4026"
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
