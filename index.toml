@@ -690,11 +690,6 @@ hash = "442cbd7f648f12ffd41be73ba5f29933ecb4acb820e33e5409685a6325f46f8f"
 metafile = true
 
 [[files]]
-file = "mods/blockmeter.pw.toml"
-hash = "aa347fb2d84ed5d40ce08014972734fb069221ecae48eae66f76d70ade0d126b"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
 metafile = true
@@ -1080,11 +1075,6 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
-file = "mods/leaves-us-in-peace.pw.toml"
-hash = "1f1435768beb36acf48e3a0f385a4423f2ee3d43ef42d7de138bd3a39b2559a2"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
@@ -1315,16 +1305,6 @@ hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
-file = "mods/replay-voice-chat.pw.toml"
-hash = "ca9f98d3618645826c463d57ad16706f479f49bc38d1d439ced52bf5a3a36cad"
-metafile = true
-
-[[files]]
-file = "mods/replaymod.pw.toml"
-hash = "04f8f8b903ea1b32de55cada48745016ea4c3ab7667a01f26ddf051b2efd731e"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "af0e46a40167fe12c8621a6cbd0281d2e6168e95507c5e94fd3d4eaa88f8d84e"
 metafile = true
@@ -1362,16 +1342,6 @@ metafile = true
 [[files]]
 file = "mods/scout.pw.toml"
 hash = "9220edac770c544c7c4aab53580f9a01b8e9e7a82e17f4bd7d4432b1b48998c9"
-metafile = true
-
-[[files]]
-file = "mods/server-side-replay-recorder.pw.toml"
-hash = "e3c8e30b266f04e59d6a5ad0071165511e164607d037208a4cb060a656881fe2"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "2d7024f15576d5e4f0b4ad573c5da9ef4cb33d8898886a899a33418e1e2f97d9"
 metafile = true
 
 [[files]]
@@ -1485,11 +1455,6 @@ hash = "5a2d646c2cfb2609ffb707226eeea8811f1318572794a3b0980fe13f3aede398"
 metafile = true
 
 [[files]]
-file = "mods/tinkerers-smithing.pw.toml"
-hash = "2b7a8332313fbb1c10fb01e9832c91f22d19e935d8050b373645d8408d9192a4"
-metafile = true
-
-[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "6230511311dcd1e74e10121b78b1e6fb47d28f3fb5b2ecda533c7094a16862c0"
 metafile = true
@@ -1507,11 +1472,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
-metafile = true
-
-[[files]]
-file = "mods/unofficial-sodium-biome-blending-fix.pw.toml"
-hash = "372a411132154ed7b76bf177d42722fcb4cb526b49aed29ddf762818b9425e37"
 metafile = true
 
 [[files]]
