@@ -630,11 +630,6 @@ hash = "4eed27eb953c169ea5e73d9acd86cb64b178d2d75b7152308f2caa280ee77048"
 metafile = true
 
 [[files]]
-file = "mods/audioplayer.pw.toml"
-hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "b222649622d5431c13bab07d28483c08d7de21c3ba5032478edfadb3adf0fcf3"
 metafile = true
