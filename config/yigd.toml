@@ -76,7 +76,7 @@ generateWhenProtected = false
 levelzXpInGraves = true
 levelzXpDropPercent = 100
 claimRuleOverride = "CREATE_GRAVE"
-prioritiseTheGraveyardGraves = true
+prioritiseTheGraveyardGraves = false
 graveyardSearchRadius = 10
 keepAllTrinkets = true
 

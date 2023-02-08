@@ -10,7 +10,7 @@ hash = "916382ad4c3234d23001a6524a51a4c8fe12aea43266a1af4fbd971fe8c4082e"
 
 [[files]]
 file = "config/MiniMOTD/main.conf"
-hash = "22b986a7e39e3911a23e380d7b2feda98e0b69102acf2732e6176c2aee336224"
+hash = "36a9d4941a0629e2545fc5438e60ccdde5bac1a159bc6c0d0d1107c6ef5f08cb"
 
 [[files]]
 file = "config/MiniMOTD/plugin_settings.conf"
@@ -378,7 +378,7 @@ hash = "d54d2c1c0bc58c890f4fdf081097b5b2a2886da9ab151cde135686d0f8f96ecb"
 
 [[files]]
 file = "config/realisticsleep.json"
-hash = "f03928863418eecc60b9f7148b2ef265927ea4594d02ce09676235102bc8f528"
+hash = "b1805c6f182f7db1bd4cc3e34a5b249759490c28d41c3828c566a148b058c5d6"
 
 [[files]]
 file = "config/replaymod.json"
@@ -510,7 +510,7 @@ hash = "6af244fa9118a6fee5430b24582961d12be2079bd8c160d669962cc30e7f4cab"
 
 [[files]]
 file = "config/yigd.toml"
-hash = "e91e67e502b9e6b7dd146296573a4a58aed5e861ec521143c8c790deabcffd37"
+hash = "0601258f097c0813b73506637a1d91020f6e397ef50f11abb6194edd92978675"
 
 [[files]]
 file = "config/zoomify.json"
@@ -555,6 +555,26 @@ metafile = true
 file = "global_packs/required_data/rotten-flesh-to-leather.pw.toml"
 hash = "29777b160a2dc7647a811792ea2217657d7bffe2bea31140b016041db62970a0"
 metafile = true
+
+[[files]]
+file = "global_packs/required_data/steve-recipe-changes/data/dm/recipes/machine_gun_base.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "global_packs/required_data/steve-recipe-changes/data/dm/recipes/machine_gun_head.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "global_packs/required_data/steve-recipe-changes/data/dm/recipes/machine_gun_stand.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "global_packs/required_data/steve-recipe-changes/data/dm/recipes/mg_turret.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "global_packs/required_data/steve-recipe-changes/pack.mcmeta"
+hash = "08ee8cff5540f2d49ce0f3d32ea728412b34f64f2eb40f3a0110de47c716ce13"
 
 [[files]]
 file = "journeymap/config/5.9/journeymap.core.config"
@@ -827,6 +847,11 @@ metafile = true
 [[files]]
 file = "mods/deeper-oceans.pw.toml"
 hash = "4369b1ed14dffa916ee29184266e9ecf5aecad812bb8731f50a901eb1dee455d"
+metafile = true
+
+[[files]]
+file = "mods/defensive-measures.pw.toml"
+hash = "aab2e943ef717bf80a5c7403917e2fe87c447228505b126a7007cd6a78f9d045"
 metafile = true
 
 [[files]]
@@ -1295,6 +1320,10 @@ hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
 metafile = true
 
 [[files]]
+file = "mods/realisticsleep-1.7.0.jar"
+hash = "3fad551f6a5e5271acf19a20ad477e08e101ab116b2eaa8cb550ff2dc5cabd2c"
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
@@ -1437,6 +1466,11 @@ metafile = true
 [[files]]
 file = "mods/tempered-glass.pw.toml"
 hash = "8a5824fd08925b17c286c9376bee95b0ddec53693ceff06ee2836c9df31393da"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "777dbe5953942756dfa642b0503146fc4cc6a82f50cf5aa4122fece8907ba3bb"
 metafile = true
 
 [[files]]
