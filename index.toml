@@ -586,11 +586,11 @@ hash = "aad40f1bc7c27c69e0fff7a4791c867759a3dce86dfcb24f125db55a2561430e"
 
 [[files]]
 file = "journeymap/config/5.9/journeymap.minimap.config"
-hash = "9ba8087c27449581c1748496e112347712eb652d1ba84b8c60a05c399003f3de"
+hash = "4a4fe7a516269cfdf600750da4e951e9eeaee44ed202137b97a66749427e39ae"
 
 [[files]]
 file = "journeymap/config/5.9/journeymap.minimap2.config"
-hash = "39566aaf9c6726f025680d8bfc9690372d8b81be361b8bcbb846efb6fc775055"
+hash = "c85a511adf098a88da6f9a1b3069bf176650a1f7d90407f792883b8b5cb8328f"
 
 [[files]]
 file = "journeymap/config/5.9/journeymap.topo.config"
