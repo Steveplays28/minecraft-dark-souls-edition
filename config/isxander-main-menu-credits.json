@@ -2,17 +2,23 @@
 	"main_menu": {
 		"top_left": [],
 		"top_right": [],
-		"bottom_left": [[{ "text": "Steve SMP S5 Reloaded" }]],
+		"bottom_left": [
+			[{ "text": "Steve SMP S5 Reloaded" }]
+		],
 		"bottom_right": [
-			[{ "text": "Made by Steveplays, ImmortalWolf, and Creeperplays" }]
+			[{ "text": "Made by Steveplays and Sonho" }]
 		],
 		"mod_blacklist": []
 	},
 	"pause_menu": {
 		"top_left": [],
 		"top_right": [],
-		"bottom_left": [],
-		"bottom_right": [],
+		"bottom_left": [
+			[{ "text": "Steve SMP S5 Reloaded" }]
+		],
+		"bottom_right": [
+			[{ "text": "Made by Steveplays and Sonho" }]
+		],
 		"mod_blacklist": []
 	}
 }

@@ -10,7 +10,7 @@ hash = "916382ad4c3234d23001a6524a51a4c8fe12aea43266a1af4fbd971fe8c4082e"
 
 [[files]]
 file = "config/MiniMOTD/main.conf"
-hash = "36a9d4941a0629e2545fc5438e60ccdde5bac1a159bc6c0d0d1107c6ef5f08cb"
+hash = "3e7a8e2e8dd45e21602f221d08749a38bb519f6d597fe142c02745eb75bfde69"
 
 [[files]]
 file = "config/MiniMOTD/plugin_settings.conf"
@@ -286,7 +286,7 @@ hash = "e2c5633901520e37f24995b2fd0f619af5cdb3fb6acd70e4a5ddd0f8f6c2a352"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "58b853f5fd324bd6a37c91e8f1523333701f79f50d1ae038c770389c670c7f36"
+hash = "2f432e7a19388f4ed5564d8ee7ef63922ee83162de60008947e9d6de6172f3ff"
 
 [[files]]
 file = "config/itemphysic-client.json"
