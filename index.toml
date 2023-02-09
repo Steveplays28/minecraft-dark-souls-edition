@@ -9,14 +9,6 @@ file = ".github/ISSUE_TEMPLATE/request-to-add-a-mod.md"
 hash = "916382ad4c3234d23001a6524a51a4c8fe12aea43266a1af4fbd971fe8c4082e"
 
 [[files]]
-file = "config/MiniMOTD/main.conf"
-hash = "3e7a8e2e8dd45e21602f221d08749a38bb519f6d597fe142c02745eb75bfde69"
-
-[[files]]
-file = "config/MiniMOTD/plugin_settings.conf"
-hash = "fe88437fdd58b33029c24ed621a232733bad49f8bf48b1cbb80e0a4a25f46bdc"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "7d72f0a6cd64d7860a4000a6b1cb3c8a9cf6fe8a9fd971a105bca8432b494a8e"
 
@@ -99,10 +91,6 @@ hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
 [[files]]
 file = "config/bwncr.toml"
 hash = "4a3e5c2643b3e40f9a5edd3d540f788818dfdf382c19340393a47efefd52ecde"
-
-[[files]]
-file = "config/c2me.toml"
-hash = "782c937b8379138214b5d26a4383feada4cba68564af3d4be0ca073524376b70"
 
 [[files]]
 file = "config/cameraoverhaul.json"
@@ -291,10 +279,6 @@ hash = "2f432e7a19388f4ed5564d8ee7ef63922ee83162de60008947e9d6de6172f3ff"
 [[files]]
 file = "config/itemphysic-client.json"
 hash = "b33dd77b7eba80b80932c13257606b2880348549e7169b3bac487137cd0daf0a"
-
-[[files]]
-file = "config/itemphysic.json"
-hash = "bb5168de1f2798f3e574aa22324f9eaaa172710a7c51430ba7bebe532c1b2f37"
 
 [[files]]
 file = "config/jmi-client.json"
@@ -519,11 +503,6 @@ hash = "e8b970da05f98cbd469bbb7b04c071db84443a647624690a334bdfa0da988a3f"
 [[files]]
 file = "global_packs/required_data/decapitator.pw.toml"
 hash = "eb93a36a51f9cfafff52adcc45469533fa6915f1ea0add2e1267dc87351d140d"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/gm4-weighted-armor.pw.toml"
-hash = "019aa083332c18d54c2f4837f6d8edb8e9e874a5927d94674758e9376d2ffd61"
 metafile = true
 
 [[files]]
@@ -1060,8 +1039,8 @@ hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
 metafile = true
 
 [[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "a2f01fe04fc337618e521b0b0a9d3d4965fa841a9163b63ed91e8804996e7184"
+file = "mods/itemphysic-lite.pw.toml"
+hash = "3ed19104bcb246d8c58eff2ff554996515009613cf167208b9a8826cd90badcb"
 metafile = true
 
 [[files]]
@@ -1256,7 +1235,7 @@ metafile = true
 
 [[files]]
 file = "mods/pathunderfencegates.pw.toml"
-hash = "059a57fd6a8c70cd62e3a77659919f88060b7dc71baaf5a82c01daf3b4085681"
+hash = "289203f79c410d65e441a5fb5dcf3db63a96cae7559b2405c8f04c36f1b4e030"
 metafile = true
 
 [[files]]
@@ -1461,6 +1440,11 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "777dbe5953942756dfa642b0503146fc4cc6a82f50cf5aa4122fece8907ba3bb"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]
