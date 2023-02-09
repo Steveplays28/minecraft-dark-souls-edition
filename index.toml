@@ -1215,11 +1215,6 @@ hash = "4444dd265044a2d24f4ca071269419d35dae1e42c78a3bed26a8a5004c83c81d"
 metafile = true
 
 [[files]]
-file = "mods/multiplayer-server-pause-fabric.pw.toml"
-hash = "3d94b64cfba577df9d071716d901f3c5417ac7c571d2ed696b467792a5441434"
-metafile = true
-
-[[files]]
 file = "mods/nbt-crafting.pw.toml"
 hash = "2f14b34b78569e3cdf0ed293855d869ef455c73055cfec9566f1d3efd06edc06"
 metafile = true
