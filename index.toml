@@ -1321,7 +1321,7 @@ metafile = true
 
 [[files]]
 file = "mods/realisticsleep-1.7.0.jar"
-hash = "5f1754dd325b60f3ffecf6b7eef57c4e7fbf41c120243bd9f05ea7e113aa502e"
+hash = "c84b109e09583d600285f5320120eca9cfa4b66d1589c1647fc6f9700bb4dfe7"
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
