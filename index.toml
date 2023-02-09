@@ -1170,11 +1170,6 @@ hash = "75cbefdd9f19a1002c51190f033e464d9a3a96766bd243d3af1f1c7994555347"
 metafile = true
 
 [[files]]
-file = "mods/minimotd.pw.toml"
-hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
-metafile = true
-
-[[files]]
 file = "mods/missing-wilds.pw.toml"
 hash = "b5fe555103b7d74bee3d0fcb995340c4a3bc9e7aa36b4d65cfdff12aad5e3cd6"
 metafile = true
@@ -1575,7 +1570,7 @@ metafile = true
 
 [[files]]
 file = "rejected_mods.md"
-hash = "81abaf02ad2466ca60d24923caefc8faec9cfb2916f5995419572d673ddb4835"
+hash = "5280a94ea8d37db4c6025f145a45e0eb337fe00921867aba1da7af3e8dc24ef7"
 
 [[files]]
 file = "resourcepacks/ctm-overhaul.pw.toml"

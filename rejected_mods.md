@@ -40,3 +40,4 @@
 - <https://modrinth.com/mod/regional-chat> Simple voice chat adds proximity voice chat, which will be the preferred way of communication for proximity chat
 - <https://modrinth.com/mod/furc> Probably incompatible with Create (and other mods in this modpack)
 - <https://modrinth.com/mod/minecord> Crash on startup
+- MiniMOTD Crashes with Create due to Fake Player API
