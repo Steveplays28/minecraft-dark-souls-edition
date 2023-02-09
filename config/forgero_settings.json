@@ -3,7 +3,7 @@
     "forgero:diamond-sacrificial_dagger_blade"
   ],
   "disabled_packs": [],
-  "disable_vanilla_recipes": true,
+  "disable_vanilla_recipes": false,
   "convert_vanilla_recipes_to_forgero_tools": false,
   "enable_repair_kits": true,
   "resource_logging": true,
