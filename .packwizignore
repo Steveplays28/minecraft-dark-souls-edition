@@ -22,3 +22,6 @@ README.md
 
 # Exclude Docker Compose file
 docker-compose.yml
+
+# GitHub stuff
+.github/

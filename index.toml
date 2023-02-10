@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/request-to-add-a-datapack.md"
-hash = "98d79b9432b9069525e9acf26afaf73f9de58ff37cd54243fe3e7783f47ceabb"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/request-to-add-a-mod.md"
-hash = "916382ad4c3234d23001a6524a51a4c8fe12aea43266a1af4fbd971fe8c4082e"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "7d72f0a6cd64d7860a4000a6b1cb3c8a9cf6fe8a9fd971a105bca8432b494a8e"
 
