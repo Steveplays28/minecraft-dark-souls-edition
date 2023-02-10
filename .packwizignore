@@ -17,8 +17,9 @@
 # Built Visual Studio Code Extensions
 *.vsix
 
-# Exclude readme
+# Markdown files
 README.md
+rejected_mods.md
 
 # Exclude Docker Compose file
 docker-compose.yml

@@ -1545,10 +1545,6 @@ hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
 metafile = true
 
 [[files]]
-file = "rejected_mods.md"
-hash = "5280a94ea8d37db4c6025f145a45e0eb337fe00921867aba1da7af3e8dc24ef7"
-
-[[files]]
 file = "resourcepacks/ctm-overhaul.pw.toml"
 hash = "055bab153927a1cc34467cb2ed6c3bcd3260fedfaab6140f5f9f799511cfc519"
 metafile = true
