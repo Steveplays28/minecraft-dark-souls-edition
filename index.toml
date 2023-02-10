@@ -1006,6 +1006,11 @@ hash = "7e6a77d0ebdb13f5a90507620f22d7fb29926c6d9683366d48f61ed442727e69"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "ed2b52314152752376a966499cc9d9ff718be397315fce9461da3beb13f56b7c"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering.pw.toml"
 hash = "9233d882e4c914db72499731aecd18de2c2b0099f9c73f54228e424a7cd3b3e3"
 metafile = true
@@ -1285,6 +1290,11 @@ file = "mods/realisticsleep-1.7.0.jar"
 hash = "4947bd818e49fc09a43fb039b03adeb51cc76b574d6dbaf38d950bd5ba092bda"
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "e4badf81eabfe1f6cd95e36bc8e3d4a63281f7c97406be76437c2ef49e189f99"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
@@ -1412,6 +1422,11 @@ metafile = true
 [[files]]
 file = "mods/suggestion-provider-fix-fabric.pw.toml"
 hash = "73692e1df032102bb922eac9061081e6d5ad5dd33d87a29fbdc95465a890cc03"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "7d4ce0df929ce3534b5b35222a00ee370eb578a7c2acf976a59d6c3614087335"
 metafile = true
 
 [[files]]
