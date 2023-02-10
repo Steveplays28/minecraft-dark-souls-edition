@@ -78,7 +78,7 @@ levelzXpDropPercent = 100
 claimRuleOverride = "CREATE_GRAVE"
 prioritiseTheGraveyardGraves = false
 graveyardSearchRadius = 10
-keepAllTrinkets = true
+keepAllTrinkets = false
 
 [graveSettings.graveRenderSettings]
 useRenderFeatures = true

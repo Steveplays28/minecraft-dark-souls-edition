@@ -486,7 +486,7 @@ hash = "6af244fa9118a6fee5430b24582961d12be2079bd8c160d669962cc30e7f4cab"
 
 [[files]]
 file = "config/yigd.toml"
-hash = "0601258f097c0813b73506637a1d91020f6e397ef50f11abb6194edd92978675"
+hash = "2f4baf81ea5982032359fd3f09eb25334ca04d653a8fd8ebe21564b691b91afc"
 
 [[files]]
 file = "config/zoomify.json"
