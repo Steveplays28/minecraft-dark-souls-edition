@@ -326,7 +326,7 @@ hash = "e71ce6b5b989211c1c60e0f79dd6583dcbdc2827643161b947092c9442829934"
 
 [[files]]
 file = "config/ordinarytweaks.json"
-hash = "e5c4685da4e5a281ab5a89db93157fdfa5cc1ed40dbf5f15b4f12704d8aeb7d0"
+hash = "57671f12f00996ca99a8215da8932181dde3b22dad1a673803794020df9fb45e"
 
 [[files]]
 file = "config/patchouli.json5"
