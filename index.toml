@@ -354,7 +354,7 @@ hash = "d54d2c1c0bc58c890f4fdf081097b5b2a2886da9ab151cde135686d0f8f96ecb"
 
 [[files]]
 file = "config/realisticsleep.json"
-hash = "c89d12d466e9cdf3c0d47eeb84804bc2641d7c2d18ab8b46bcd547d569e80248"
+hash = "d161f049ee157cfb5755cffbcc65a06da5c34b96b1d4d188987d589330147ff3"
 
 [[files]]
 file = "config/replaymod.json"
@@ -1286,7 +1286,7 @@ metafile = true
 
 [[files]]
 file = "mods/realisticsleep-1.7.0.jar"
-hash = "4947bd818e49fc09a43fb039b03adeb51cc76b574d6dbaf38d950bd5ba092bda"
+hash = "505d4f0f351f01c528f6624b64503f5f4938aedf08addc1881b2647abc9ce5af"
 
 [[files]]
 file = "mods/reborncore.pw.toml"
