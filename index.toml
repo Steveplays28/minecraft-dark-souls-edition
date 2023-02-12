@@ -960,11 +960,6 @@ file = "mods/forgero-fabric-full-0.10.7-rc2-BETA-1.19.2.jar"
 hash = "1cf20ae2b9c29592c645e9f0c9b45fb84c300484957fd804e07ab521f5673f55"
 
 [[files]]
-file = "mods/forgero.pw.toml"
-hash = "3257e6f10e5a2ff2fe927d967fbcbbf750f7b35d867053093ee257068ac04140"
-metafile = true
-
-[[files]]
 file = "mods/forgetmechunk.pw.toml"
 hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
