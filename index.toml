@@ -354,7 +354,7 @@ hash = "d54d2c1c0bc58c890f4fdf081097b5b2a2886da9ab151cde135686d0f8f96ecb"
 
 [[files]]
 file = "config/realisticsleep.json"
-hash = "d161f049ee157cfb5755cffbcc65a06da5c34b96b1d4d188987d589330147ff3"
+hash = "8e8384244056769bed1ba6d75572d5947f2d44748f72564b223f176760d33952"
 
 [[files]]
 file = "config/replaymod.json"
@@ -435,6 +435,10 @@ hash = "2fa4fb507d37af16859426d7fcf499c1e1aa5045b48d1a5bdb15b9697f57bab8"
 [[files]]
 file = "config/styledplayerlist/styles/smp.json"
 hash = "22750c669eee6f30e17918e5f6789103a8294b606d19cc2f7ddd2701985eb8a7"
+
+[[files]]
+file = "config/textile_backup.json5"
+hash = "91ec04357822eee2d061693a567d74ff9e33eb6a5798b9b60548ebc0a0a950be"
 
 [[files]]
 file = "config/timestamp_chat.toml"
@@ -1441,6 +1445,11 @@ metafile = true
 [[files]]
 file = "mods/tempered-glass.pw.toml"
 hash = "8a5824fd08925b17c286c9376bee95b0ddec53693ceff06ee2836c9df31393da"
+metafile = true
+
+[[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
 metafile = true
 
 [[files]]
