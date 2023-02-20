@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "bd21befb0fa945159638844e06cba6a5e298785866508a95a100026a10dac0a8"
+hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
 metafile = true
 
 [[files]]
@@ -661,12 +661,12 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "5f9c2805feca5a1393018b73b67db3aaa5f8eb28edf52ae2965aebfc1483a745"
+hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
 metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
+hash = "73c1b707adeed63cdd1e7a2813daba8f4361307734ed35f3433a04f989501562"
 metafile = true
 
 [[files]]
@@ -871,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "c9b76faa13062eea32d52fac5e90ee7869700b487e53cf0307142dbaea5fb989"
+hash = "7b29a18ad1cf21358b2532f027eca3643263a8450970f499be862009735f5efb"
 metafile = true
 
 [[files]]
@@ -912,6 +912,11 @@ metafile = true
 [[files]]
 file = "mods/excavated_variants.pw.toml"
 hash = "c00fde57f8d17d69aa20f0185775373dd02f9cc036cac4f84755f7fea946edb1"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "814b3955219c3f1e6b10636b34c5615e09125df7138cad391fce3db39974a340"
 metafile = true
 
 [[files]]
