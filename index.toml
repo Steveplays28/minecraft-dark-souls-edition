@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/request-to-add-a-datapack.md"
-hash = "98d79b9432b9069525e9acf26afaf73f9de58ff37cd54243fe3e7783f47ceabb"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/request-to-add-a-mod.md"
-hash = "916382ad4c3234d23001a6524a51a4c8fe12aea43266a1af4fbd971fe8c4082e"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "7d72f0a6cd64d7860a4000a6b1cb3c8a9cf6fe8a9fd971a105bca8432b494a8e"
 
@@ -78,7 +70,7 @@ hash = "4860be3782bf3cdcfbc9ab1729f420b97d5d39c4bd3c609f424c9c67b40a434b"
 
 [[files]]
 file = "config/blockrunner.json"
-hash = "0315656b89953655b7c6091aa9a760d6903562985dc35db28bc3554e8121448f"
+hash = "1c3a93db23d54bbb9c3327f7f54ad58ad083d14f677a5c9680b887fd02e5fb7f"
 
 [[files]]
 file = "config/blur.json"
@@ -306,7 +298,7 @@ hash = "5c1b8600c71388b27891bf62aac27eb03473e25376155f4770b5cc11bcb2612c"
 
 [[files]]
 file = "config/minimalmenu.json"
-hash = "eefbb7fa095d528afb01bbefc4c687be7900271ae55295fe72e144250eb75ffb"
+hash = "05b31b482055c4c0e6d03b3c1101a4d00b6cd25faba31be9edccbf954d42bbd5"
 
 [[files]]
 file = "config/modmenu.json"
@@ -326,7 +318,7 @@ hash = "e71ce6b5b989211c1c60e0f79dd6583dcbdc2827643161b947092c9442829934"
 
 [[files]]
 file = "config/ordinarytweaks.json"
-hash = "e5c4685da4e5a281ab5a89db93157fdfa5cc1ed40dbf5f15b4f12704d8aeb7d0"
+hash = "57671f12f00996ca99a8215da8932181dde3b22dad1a673803794020df9fb45e"
 
 [[files]]
 file = "config/patchouli.json5"
@@ -362,7 +354,7 @@ hash = "d54d2c1c0bc58c890f4fdf081097b5b2a2886da9ab151cde135686d0f8f96ecb"
 
 [[files]]
 file = "config/realisticsleep.json"
-hash = "c89d12d466e9cdf3c0d47eeb84804bc2641d7c2d18ab8b46bcd547d569e80248"
+hash = "8e8384244056769bed1ba6d75572d5947f2d44748f72564b223f176760d33952"
 
 [[files]]
 file = "config/replaymod.json"
@@ -445,6 +437,10 @@ file = "config/styledplayerlist/styles/smp.json"
 hash = "22750c669eee6f30e17918e5f6789103a8294b606d19cc2f7ddd2701985eb8a7"
 
 [[files]]
+file = "config/textile_backup.json5"
+hash = "91ec04357822eee2d061693a567d74ff9e33eb6a5798b9b60548ebc0a0a950be"
+
+[[files]]
 file = "config/timestamp_chat.toml"
 hash = "6fd72f8001e2c3ed958bd0b01349c35b11da7967a92d54549a63b3188cdac846"
 
@@ -494,7 +490,7 @@ hash = "6af244fa9118a6fee5430b24582961d12be2079bd8c160d669962cc30e7f4cab"
 
 [[files]]
 file = "config/yigd.toml"
-hash = "0601258f097c0813b73506637a1d91020f6e397ef50f11abb6194edd92978675"
+hash = "2f4baf81ea5982032359fd3f09eb25334ca04d653a8fd8ebe21564b691b91afc"
 
 [[files]]
 file = "config/zoomify.json"
@@ -640,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "bd21befb0fa945159638844e06cba6a5e298785866508a95a100026a10dac0a8"
+hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
 metafile = true
 
 [[files]]
@@ -665,12 +661,12 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "5f9c2805feca5a1393018b73b67db3aaa5f8eb28edf52ae2965aebfc1483a745"
+hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
 metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
+hash = "73c1b707adeed63cdd1e7a2813daba8f4361307734ed35f3433a04f989501562"
 metafile = true
 
 [[files]]
@@ -875,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "c9b76faa13062eea32d52fac5e90ee7869700b487e53cf0307142dbaea5fb989"
+hash = "7b29a18ad1cf21358b2532f027eca3643263a8450970f499be862009735f5efb"
 metafile = true
 
 [[files]]
@@ -916,6 +912,11 @@ metafile = true
 [[files]]
 file = "mods/excavated_variants.pw.toml"
 hash = "c00fde57f8d17d69aa20f0185775373dd02f9cc036cac4f84755f7fea946edb1"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "814b3955219c3f1e6b10636b34c5615e09125df7138cad391fce3db39974a340"
 metafile = true
 
 [[files]]
@@ -965,7 +966,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgero.pw.toml"
-hash = "30e18ba1627f0d1bcbc6f5520708c7a47dc26fc9e8f08f82c6b51883ca1e7100"
+hash = "e8e82162a9719c8d0f9be83d8e7b64fdf35e872ff0467ccedf1752e5793289b9"
 metafile = true
 
 [[files]]
@@ -1014,6 +1015,11 @@ hash = "7e6a77d0ebdb13f5a90507620f22d7fb29926c6d9683366d48f61ed442727e69"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "ed2b52314152752376a966499cc9d9ff718be397315fce9461da3beb13f56b7c"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering.pw.toml"
 hash = "9233d882e4c914db72499731aecd18de2c2b0099f9c73f54228e424a7cd3b3e3"
 metafile = true
@@ -1026,6 +1032,11 @@ metafile = true
 [[files]]
 file = "mods/ingredient-extension-api.pw.toml"
 hash = "49ae038ac73483db0da9d34422656829397c5285cae5f82f1c86cab6cc93aef5"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "b7ddb84e65bee3c1f60bc9a917f0f31130b379a50feb60fae49898948184ffe8"
 metafile = true
 
 [[files]]
@@ -1071,6 +1082,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "730a2942abc26467602f541397824c3d0f8cfb2d497f2239ec72d98f9c10fbe9"
 metafile = true
 
 [[files]]
@@ -1290,7 +1306,12 @@ metafile = true
 
 [[files]]
 file = "mods/realisticsleep-1.7.0.jar"
-hash = "4947bd818e49fc09a43fb039b03adeb51cc76b574d6dbaf38d950bd5ba092bda"
+hash = "505d4f0f351f01c528f6624b64503f5f4938aedf08addc1881b2647abc9ce5af"
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "e4badf81eabfe1f6cd95e36bc8e3d4a63281f7c97406be76437c2ef49e189f99"
+metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
@@ -1423,6 +1444,11 @@ hash = "73692e1df032102bb922eac9061081e6d5ad5dd33d87a29fbdc95465a890cc03"
 metafile = true
 
 [[files]]
+file = "mods/techreborn.pw.toml"
+hash = "7d4ce0df929ce3534b5b35222a00ee370eb578a7c2acf976a59d6c3614087335"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "bab8c91c2a3e57f6bae90418b2897fac1efa6ca2cc08e169e1370bb76b2004b0"
 metafile = true
@@ -1435,6 +1461,11 @@ metafile = true
 [[files]]
 file = "mods/tempered-glass.pw.toml"
 hash = "8a5824fd08925b17c286c9376bee95b0ddec53693ceff06ee2836c9df31393da"
+metafile = true
+
+[[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
 metafile = true
 
 [[files]]
@@ -1551,10 +1582,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
 metafile = true
-
-[[files]]
-file = "rejected_mods.md"
-hash = "5280a94ea8d37db4c6025f145a45e0eb337fe00921867aba1da7af3e8dc24ef7"
 
 [[files]]
 file = "resourcepacks/ctm-overhaul.pw.toml"
