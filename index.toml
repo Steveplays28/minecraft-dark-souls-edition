@@ -70,7 +70,7 @@ hash = "4860be3782bf3cdcfbc9ab1729f420b97d5d39c4bd3c609f424c9c67b40a434b"
 
 [[files]]
 file = "config/blockrunner.json"
-hash = "0315656b89953655b7c6091aa9a760d6903562985dc35db28bc3554e8121448f"
+hash = "1c3a93db23d54bbb9c3327f7f54ad58ad083d14f677a5c9680b887fd02e5fb7f"
 
 [[files]]
 file = "config/blur.json"
@@ -965,8 +965,9 @@ hash = "215fb8df4474c3893d7ef048065ec87aa02b9e956ce2b8b6f0306ad8943da8b1"
 metafile = true
 
 [[files]]
-file = "mods/forgero-fabric-full-0.10.7-rc2-BETA-1.19.2.jar"
-hash = "1cf20ae2b9c29592c645e9f0c9b45fb84c300484957fd804e07ab521f5673f55"
+file = "mods/forgero.pw.toml"
+hash = "e8e82162a9719c8d0f9be83d8e7b64fdf35e872ff0467ccedf1752e5793289b9"
+metafile = true
 
 [[files]]
 file = "mods/forgetmechunk.pw.toml"
@@ -1034,6 +1035,11 @@ hash = "49ae038ac73483db0da9d34422656829397c5285cae5f82f1c86cab6cc93aef5"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "b7ddb84e65bee3c1f60bc9a917f0f31130b379a50feb60fae49898948184ffe8"
+metafile = true
+
+[[files]]
 file = "mods/invview.pw.toml"
 hash = "7cfacba402f52a71096bda72ede806b9b6964c2c807019da76f4e27fa839c8a5"
 metafile = true
@@ -1076,6 +1082,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "730a2942abc26467602f541397824c3d0f8cfb2d497f2239ec72d98f9c10fbe9"
 metafile = true
 
 [[files]]
