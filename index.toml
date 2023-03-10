@@ -70,7 +70,7 @@ hash = "4860be3782bf3cdcfbc9ab1729f420b97d5d39c4bd3c609f424c9c67b40a434b"
 
 [[files]]
 file = "config/blockrunner.json"
-hash = "1c3a93db23d54bbb9c3327f7f54ad58ad083d14f677a5c9680b887fd02e5fb7f"
+hash = "98b14dfdf2d33dd5a1a7024e0cfd5b432c4c62ef41f0fc45972a5474b9ac8880"
 
 [[files]]
 file = "config/blur.json"
