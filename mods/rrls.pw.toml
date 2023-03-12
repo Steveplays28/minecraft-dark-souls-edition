@@ -1,0 +1,13 @@
+name = "Remove Reloading Screen"
+filename = "RemoveReloadingScreen-1.3.0.8-fabric-mc1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZP7xHXtw/versions/W8C6h4cP/RemoveReloadingScreen-1.3.0.8-fabric-mc1.19.2.jar"
+hash-format = "sha1"
+hash = "64b3c35e884091bb32668d9dd5c2d32095b1274f"
+
+[update]
+[update.modrinth]
+mod-id = "ZP7xHXtw"
+version = "W8C6h4cP"

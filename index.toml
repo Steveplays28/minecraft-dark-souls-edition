@@ -365,6 +365,10 @@ file = "config/repurposed_structures.json"
 hash = "ee6820850ced5fb35afb48ef64371d66b8c973eaad76c41b1cc6e46560161f7a"
 
 [[files]]
+file = "config/rrls.toml"
+hash = "f92e23926b4760f774702a5dd8156da2b9d0bc3958b9c22c394cdc2b31715a54"
+
+[[files]]
 file = "config/simplyswords/backupconfig.json"
 hash = "c7c0980eec0fa7deab8828f19bf1ee9eadf0ed79763f73e799d06d5dd83284d0"
 
@@ -805,11 +809,6 @@ hash = "52aa9ca574c5ab2c2879c71303d83353c249fccd7030c4669f8a5ca09d895e49"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
-metafile = true
-
-[[files]]
 file = "mods/data-attributes.pw.toml"
 hash = "94903cb0af809bb0b7eeb715dce7bbeb4959b80d8eed6ec83e6abed881160653"
 metafile = true
@@ -942,6 +941,11 @@ metafile = true
 [[files]]
 file = "mods/fastanim.pw.toml"
 hash = "eff34655a27563df3b1044015998fb1a627e9a04fff1ecb438ed14a34be555d0"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "f25e49ca19098f7488d30092719c0a8e480da5f01b6e7069bf1093fea82c80a8"
 metafile = true
 
 [[files]]
@@ -1346,6 +1350,11 @@ metafile = true
 [[files]]
 file = "mods/roundaround-pickup-notifications.pw.toml"
 hash = "f5ebb9659624fee84d0bcbac2f4928efbc43b3fec12da0b436477f3181e4083e"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "e93148a3d7cfd03e15bb7b980d64aebb4d5be4b9edcd3c44dde90810a921bb27"
 metafile = true
 
 [[files]]
