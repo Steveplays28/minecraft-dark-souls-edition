@@ -241,16 +241,8 @@ file = "config/immersive_weathering-common.json"
 hash = "ff685b4d6d372eeb6e2c6c3bba3b0c7c9e6648a3748d034a64b77b3ed21dd154"
 
 [[files]]
-file = "config/inventoryprofilesnext/Terra 2/lockSlots.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "b3db144a36eae9eecaa6b33b6bad73c6dadd79b820d8ddbfac0b00def697eb63"
+hash = "7a4b0b7253ebd81a5cace34fff30d4580228b6bcc427eaae609301ff40591427"
 
 [[files]]
 file = "config/invmove.json"
@@ -790,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
+hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
 metafile = true
 
 [[files]]
@@ -1295,7 +1287,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f8abf37ca66a859e03c848166dfd7d82f4c89a22c7b4ec5b3f97890bda8438d7"
+hash = "f2b64534ac741a2a5f4ea7aa59585e1a5e60160e65cddac301d3cf46eb335150"
 metafile = true
 
 [[files]]
