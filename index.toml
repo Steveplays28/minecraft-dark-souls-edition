@@ -42,7 +42,7 @@ hash = "97f6392801d6939fb800741cabbe1934e52196fde048e90bcf0f61e9dca13ebb"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "bc952a3376bfd519f482b5702d244123ec000999199ae302f990bbfcdcdc3507"
+hash = "9695d0d094fcadbe6780d53e0bbaae4a100fb1c87fdb32b18fd1b5e4c4e6d069"
 
 [[files]]
 file = "config/betteranimationscollection-client.toml"
@@ -529,19 +529,19 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_data/steve-recipe-changes/data/dm/recipes/machine_gun_base.json"
-hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+hash = "6b69c7d7785cb5636bc69ca1bccae385ac170d080fb57e389b0f10e8a66d255a"
 
 [[files]]
 file = "global_packs/required_data/steve-recipe-changes/data/dm/recipes/machine_gun_head.json"
-hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+hash = "6b69c7d7785cb5636bc69ca1bccae385ac170d080fb57e389b0f10e8a66d255a"
 
 [[files]]
 file = "global_packs/required_data/steve-recipe-changes/data/dm/recipes/machine_gun_stand.json"
-hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+hash = "6b69c7d7785cb5636bc69ca1bccae385ac170d080fb57e389b0f10e8a66d255a"
 
 [[files]]
 file = "global_packs/required_data/steve-recipe-changes/data/dm/recipes/mg_turret.json"
-hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+hash = "6b69c7d7785cb5636bc69ca1bccae385ac170d080fb57e389b0f10e8a66d255a"
 
 [[files]]
 file = "global_packs/required_data/steve-recipe-changes/pack.mcmeta"
@@ -583,11 +583,6 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "575076b5530174612732223eba4b2c33dbaac30d4eaa2a04d75b26958e1a338b"
-metafile = true
-
-[[files]]
-file = "mods/all-block-variants.pw.toml"
-hash = "9e5eb200bcc50b023a887c320e208f1f14bf42fca71948d93aea1d20ce017d06"
 metafile = true
 
 [[files]]
@@ -1168,11 +1163,6 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
-metafile = true
-
-[[files]]
-file = "mods/mob-captains.pw.toml"
-hash = "1c22f1a10274b466f1a90bb694c41ea3ddf2048792c4fb906936738e6b3c4374"
 metafile = true
 
 [[files]]
