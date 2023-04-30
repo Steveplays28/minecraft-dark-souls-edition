@@ -626,11 +626,6 @@ hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
-metafile = true
-
-[[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "026414a0dcab2f08018f569431081e5e5c245cdb3c74ee3aaaa466403b6a7be3"
 metafile = true
@@ -648,16 +643,6 @@ metafile = true
 [[files]]
 file = "mods/better-safe-bed.pw.toml"
 hash = "067ce28d816f9ecf8796dea0cb3ab4734683cd7ee0e80fa524af217c4c1ce381"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "73c1b707adeed63cdd1e7a2813daba8f4361307734ed35f3433a04f989501562"
 metafile = true
 
 [[files]]
