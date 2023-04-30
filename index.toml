@@ -41,10 +41,6 @@ file = "config/areas-fabric.json5"
 hash = "97f6392801d6939fb800741cabbe1934e52196fde048e90bcf0f61e9dca13ebb"
 
 [[files]]
-file = "config/bclib/client.json"
-hash = "9695d0d094fcadbe6780d53e0bbaae4a100fb1c87fdb32b18fd1b5e4c4e6d069"
-
-[[files]]
 file = "config/betteranimationscollection-client.toml"
 hash = "f40dbdbb65f24025622a07b8cf66cd12399278f2ef09eb4bc059d3da18c14b30"
 
