@@ -1541,21 +1541,6 @@ hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ctm-overhaul.pw.toml"
-hash = "055bab153927a1cc34467cb2ed6c3bcd3260fedfaab6140f5f9f799511cfc519"
-metafile = true
-
-[[files]]
-file = "resourcepacks/visual-leaf-decay.pw.toml"
-hash = "05bb41d25db0b5559f019c1778fe22a7a9d03b3e05f55b87743bf44f67046a9a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
-hash = "a7034e6233338f7a4002510c8a21863922ccec654a443f512a01e0e65bba0210"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
 metafile = true
