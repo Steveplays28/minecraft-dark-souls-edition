@@ -1,4 +1,4 @@
-name = "Steve SMP S5 Reloaded"
+name = "Dark Souls Edition"
 author = "Steveplays28"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d6fb53ba9c291df7298fa2bbb6d9543170ffb7b29a66053e8049d5e6137c9ff4"
+hash = "ab854837e15fa45b89c494837cab48dbd06d08b885c3f86224aa10d43cbcb615"
 
 [versions]
 minecraft = "1.19.2"
-quilt = "0.18.1-beta.59"
+quilt = "0.19.0-beta.13"
 
 [options]
 acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

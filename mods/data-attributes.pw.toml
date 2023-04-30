@@ -1,13 +1,13 @@
 name = "Data Attributes"
-filename = "dataattributes-1.2.7.jar"
+filename = "dataattributes-1.4.4+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wFyCClLQ/versions/fiwCOlq9/dataattributes-1.2.7.jar"
+url = "https://cdn.modrinth.com/data/wFyCClLQ/versions/qgGdYVpD/dataattributes-1.4.4%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "1631e273b62d76bc06a3287d8f37a3b7c4847bdf"
+hash = "e52b691a5e7766cfeeb794ee6f28ca5ca13bd1ca"
 
 [update]
 [update.modrinth]
 mod-id = "wFyCClLQ"
-version = "fiwCOlq9"
+version = "qgGdYVpD"

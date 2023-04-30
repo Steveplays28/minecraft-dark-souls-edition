@@ -18,8 +18,7 @@
 *.vsix
 
 # Markdown files
-README.md
-rejected_mods.md
+*.md
 
 # Exclude Docker Compose file
 docker-compose.yml

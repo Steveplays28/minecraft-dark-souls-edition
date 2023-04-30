@@ -1,13 +1,13 @@
 name = "Loading Screen Tips"
-filename = "loadingscreentips-1.1.0.jar"
+filename = "loadingscreentips-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "300f8f12eb6c2c0812a3520e4830542c91275724"
+hash = "6aab541f4b6e0490b413f8e5ba2bc92768f5b5e6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3964823
+file-id = 3828201
 project-id = 527804

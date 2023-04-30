@@ -1,13 +1,13 @@
 name = "Defensive Measures Mod"
-filename = "defensive-measures-1.0.1-beta-1.19.2.jar"
+filename = "defensive-measures-1.0.2-beta-1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6KRlDejX/versions/Vw3NYmxR/defensive-measures-1.0.1-beta-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/6KRlDejX/versions/m6DmuFai/defensive-measures-1.0.2-beta-1.19.2.jar"
 hash-format = "sha1"
-hash = "674c9aed35883b4237189f0ffb6c906fddb5569d"
+hash = "6f155016f3763cc621f46abe51ed6aeea6e35579"
 
 [update]
 [update.modrinth]
 mod-id = "6KRlDejX"
-version = "Vw3NYmxR"
+version = "m6DmuFai"
