@@ -871,11 +871,6 @@ hash = "b7a5b011e2bc90a4a6942e5bd0ca20b02ea3ad4f02938967563bef03ff34140a"
 metafile = true
 
 [[files]]
-file = "mods/entity-collision-fps-fix.pw.toml"
-hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
@@ -943,11 +938,6 @@ metafile = true
 [[files]]
 file = "mods/forgero.pw.toml"
 hash = "4b322f0b6d3ab6ec6bffb2ef08bd229845008a75283524fddf9e61fdb39a4f93"
-metafile = true
-
-[[files]]
-file = "mods/forgetmechunk.pw.toml"
-hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
@@ -1457,11 +1447,6 @@ metafile = true
 [[files]]
 file = "mods/timestamp-chat.pw.toml"
 hash = "5a2d646c2cfb2609ffb707226eeea8811f1318572794a3b0980fe13f3aede398"
-metafile = true
-
-[[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
