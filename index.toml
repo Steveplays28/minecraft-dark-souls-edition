@@ -382,7 +382,7 @@ hash = "67369906ddb47a677d4d647904198dc29211d9dadf0a249be1d639d4107dd3ea"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "c4a219324c67167cc9b97c239bd3c4fe908ee4bdad9a6dcfdb341f64d6d8d88f"
+hash = "05bde7b0cc877ec4d3a0b18b4851be39106d45c559ecc7b94c543cc0acaaa93a"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -390,7 +390,7 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "7e5836e435fa69a2fc4f7e3d9bd75b41903d99967bd8cb60deebf71590a46bf9"
+hash = "7201e6e105c08d1c3fa8db320b069e79d44f2cde3d61cf55de9ece94236ead18"
 
 [[files]]
 file = "config/sodium-shadowy-path-blocks-options.json"
@@ -589,6 +589,11 @@ metafile = true
 [[files]]
 file = "mods/amecs.pw.toml"
 hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "72206cfb912e4920f993c1e390725cdfcda1db14eb8c5378e1cf9d74e8976015"
 metafile = true
 
 [[files]]
@@ -1523,6 +1528,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "db24b9f5262599c4a358be6e80e78a9fc0e4ad46b4dd00435aca9f76a60d7ca0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "dc3044cf3ee836be2c3c0e8c6e3c6c5c0fb218cd72f2c41b082cbeb6056cc274"
 metafile = true
 
 [[files]]
